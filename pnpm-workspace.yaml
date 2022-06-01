@@ -1,4 +1,0 @@
-packages:
-  - 'types/*'
-  - 'components/**'
-  - 'helpers/*'

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "370376976038",
+    "firebase_url": "https://nyota-25d42.firebaseio.com",
+    "project_id": "nyota-25d42",
+    "storage_bucket": "nyota-25d42.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:370376976038:android:3b82dc0bc3dde03995b667",
+        "android_client_info": {
+          "package_name": "com.icreative.nyota"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "370376976038-b0tttucom76bk5esl93s6rg3bv8digcs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAyYsSBccq6cFwqCASZHJx0RnAdq3OH-A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "370376976038-b0tttucom76bk5esl93s6rg3bv8digcs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

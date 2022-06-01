@@ -1,0 +1,33 @@
+dependencies: \
+  /Users/baps/Documents/Projects/React-Native/NyotaApp-master/Source/ios/Pods/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginKit/FBSDKDeviceLoginManagerResult.m \
+  /Users/baps/Documents/Projects/React-Native/NyotaApp-master/Source/ios/Pods/Target\ Support\ Files/FBSDKLoginKit/FBSDKLoginKit-prefix.pch \
+  /Users/baps/Documents/Projects/React-Native/NyotaApp-master/Source/ios/Pods/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginKit/Internal/FBSDKDeviceLoginManagerResult+Internal.h \
+  /Users/baps/Documents/Projects/React-Native/NyotaApp-master/Source/ios/Pods/Headers/Private/FBSDKCoreKit/FBSDKCoreKit.h \
+  /Users/baps/Documents/Projects/React-Native/NyotaApp-master/Source/ios/Pods/Headers/Private/FBSDKCoreKit/FBSDKAccessToken.h \
+  /Users/baps/Documents/Projects/React-Native/NyotaApp-master/Source/ios/Pods/Headers/Private/FBSDKCoreKit/FBSDKCopying.h \
+  /Users/baps/Documents/Projects/React-Native/NyotaApp-master/Source/ios/Pods/Headers/Private/FBSDKCoreKit/FBSDKGraphRequestConnection.h \
+  /Users/baps/Documents/Projects/React-Native/NyotaApp-master/Source/ios/Pods/Headers/Private/FBSDKCoreKit/FBSDKAppEvents.h \
+  /Users/baps/Documents/Projects/React-Native/NyotaApp-master/Source/ios/Pods/Headers/Private/FBSDKCoreKit/FBSDKApplicationDelegate.h \
+  /Users/baps/Documents/Projects/React-Native/NyotaApp-master/Source/ios/Pods/Headers/Private/FBSDKCoreKit/FBSDKButton.h \
+  /Users/baps/Documents/Projects/React-Native/NyotaApp-master/Source/ios/Pods/Headers/Private/FBSDKCoreKit/FBSDKConstants.h \
+  /Users/baps/Documents/Projects/React-Native/NyotaApp-master/Source/ios/Pods/Headers/Private/FBSDKCoreKit/FBSDKGraphRequest.h \
+  /Users/baps/Documents/Projects/React-Native/NyotaApp-master/Source/ios/Pods/Headers/Private/FBSDKCoreKit/FBSDKGraphRequestDataAttachment.h \
+  /Users/baps/Documents/Projects/React-Native/NyotaApp-master/Source/ios/Pods/Headers/Private/FBSDKCoreKit/FBSDKSettings.h \
+  /Users/baps/Documents/Projects/React-Native/NyotaApp-master/Source/ios/Pods/Headers/Private/FBSDKCoreKit/FBSDKTestUsersManager.h \
+  /Users/baps/Documents/Projects/React-Native/NyotaApp-master/Source/ios/Pods/Headers/Private/FBSDKCoreKit/FBSDKUtility.h \
+  /Users/baps/Documents/Projects/React-Native/NyotaApp-master/Source/ios/Pods/Headers/Private/FBSDKCoreKit/FBSDKAppLink.h \
+  /Users/baps/Documents/Projects/React-Native/NyotaApp-master/Source/ios/Pods/Headers/Private/FBSDKCoreKit/FBSDKAppLinkTarget.h \
+  /Users/baps/Documents/Projects/React-Native/NyotaApp-master/Source/ios/Pods/Headers/Private/FBSDKCoreKit/FBSDKAppLinkNavigation.h \
+  /Users/baps/Documents/Projects/React-Native/NyotaApp-master/Source/ios/Pods/Headers/Private/FBSDKCoreKit/FBSDKAppLinkResolving.h \
+  /Users/baps/Documents/Projects/React-Native/NyotaApp-master/Source/ios/Pods/Headers/Private/FBSDKCoreKit/FBSDKAppLinkResolver.h \
+  /Users/baps/Documents/Projects/React-Native/NyotaApp-master/Source/ios/Pods/Headers/Private/FBSDKCoreKit/FBSDKAppLinkReturnToRefererController.h \
+  /Users/baps/Documents/Projects/React-Native/NyotaApp-master/Source/ios/Pods/Headers/Private/FBSDKCoreKit/FBSDKAppLinkReturnToRefererView.h \
+  /Users/baps/Documents/Projects/React-Native/NyotaApp-master/Source/ios/Pods/Headers/Private/FBSDKCoreKit/FBSDKAppLinkUtility.h \
+  /Users/baps/Documents/Projects/React-Native/NyotaApp-master/Source/ios/Pods/Headers/Private/FBSDKCoreKit/FBSDKGraphErrorRecoveryProcessor.h \
+  /Users/baps/Documents/Projects/React-Native/NyotaApp-master/Source/ios/Pods/Headers/Private/FBSDKCoreKit/FBSDKMeasurementEvent.h \
+  /Users/baps/Documents/Projects/React-Native/NyotaApp-master/Source/ios/Pods/Headers/Private/FBSDKCoreKit/FBSDKMutableCopying.h \
+  /Users/baps/Documents/Projects/React-Native/NyotaApp-master/Source/ios/Pods/Headers/Private/FBSDKCoreKit/FBSDKProfile.h \
+  /Users/baps/Documents/Projects/React-Native/NyotaApp-master/Source/ios/Pods/Headers/Private/FBSDKCoreKit/FBSDKProfilePictureView.h \
+  /Users/baps/Documents/Projects/React-Native/NyotaApp-master/Source/ios/Pods/Headers/Private/FBSDKCoreKit/FBSDKURL.h \
+  /Users/baps/Documents/Projects/React-Native/NyotaApp-master/Source/ios/Pods/Headers/Private/FBSDKCoreKit/FBSDKWebViewAppLinkResolver.h \
+  /Users/baps/Documents/Projects/React-Native/NyotaApp-master/Source/ios/Pods/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginKit/FBSDKDeviceLoginManagerResult.h

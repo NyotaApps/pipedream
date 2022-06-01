@@ -1,0 +1,19 @@
+dependencies: \
+  /Users/baps/Documents/Projects/React-Native/NyotaApp-master/Source/ios/Pods/GoogleDataTransport/GoogleDataTransport/GDTLibrary/GDTUploadPackage.m \
+  /Users/baps/Documents/Projects/React-Native/NyotaApp-master/Source/ios/Pods/GoogleDataTransport/GoogleDataTransport/GDTLibrary/Public/GDTUploadPackage.h \
+  /Users/baps/Documents/Projects/React-Native/NyotaApp-master/Source/ios/Pods/GoogleDataTransport/GoogleDataTransport/GDTLibrary/Public/GDTTargets.h \
+  /Users/baps/Documents/Projects/React-Native/NyotaApp-master/Source/ios/Pods/GoogleDataTransport/GoogleDataTransport/GDTLibrary/Public/GDTClock.h \
+  /Users/baps/Documents/Projects/React-Native/NyotaApp-master/Source/ios/Pods/GoogleDataTransport/GoogleDataTransport/GDTLibrary/Public/GDTConsoleLogger.h \
+  /Users/baps/Documents/Projects/React-Native/NyotaApp-master/Source/ios/Pods/GoogleDataTransport/GoogleDataTransport/GDTLibrary/Public/GDTStoredEvent.h \
+  /Users/baps/Documents/Projects/React-Native/NyotaApp-master/Source/ios/Pods/GoogleDataTransport/GoogleDataTransport/GDTLibrary/Public/GDTDataFuture.h \
+  /Users/baps/Documents/Projects/React-Native/NyotaApp-master/Source/ios/Pods/GoogleDataTransport/GoogleDataTransport/GDTLibrary/Public/GDTEvent.h \
+  /Users/baps/Documents/Projects/React-Native/NyotaApp-master/Source/ios/Pods/GoogleDataTransport/GoogleDataTransport/GDTLibrary/Public/GDTEventDataObject.h \
+  /Users/baps/Documents/Projects/React-Native/NyotaApp-master/Source/ios/Pods/GoogleDataTransport/GoogleDataTransport/GDTLibrary/Private/GDTStorage_Private.h \
+  /Users/baps/Documents/Projects/React-Native/NyotaApp-master/Source/ios/Pods/GoogleDataTransport/GoogleDataTransport/GDTLibrary/Private/GDTStorage.h \
+  /Users/baps/Documents/Projects/React-Native/NyotaApp-master/Source/ios/Pods/GoogleDataTransport/GoogleDataTransport/GDTLibrary/Public/GDTLifecycle.h \
+  /Users/baps/Documents/Projects/React-Native/NyotaApp-master/Source/ios/Pods/GoogleDataTransport/GoogleDataTransport/GDTLibrary/Public/GDTPlatform.h \
+  /Users/baps/Documents/Projects/React-Native/NyotaApp-master/Source/ios/Pods/GoogleDataTransport/GoogleDataTransport/GDTLibrary/Private/GDTUploadCoordinator.h \
+  /Users/baps/Documents/Projects/React-Native/NyotaApp-master/Source/ios/Pods/GoogleDataTransport/GoogleDataTransport/GDTLibrary/Public/GDTRegistrar.h \
+  /Users/baps/Documents/Projects/React-Native/NyotaApp-master/Source/ios/Pods/GoogleDataTransport/GoogleDataTransport/GDTLibrary/Public/GDTPrioritizer.h \
+  /Users/baps/Documents/Projects/React-Native/NyotaApp-master/Source/ios/Pods/GoogleDataTransport/GoogleDataTransport/GDTLibrary/Public/GDTUploader.h \
+  /Users/baps/Documents/Projects/React-Native/NyotaApp-master/Source/ios/Pods/GoogleDataTransport/GoogleDataTransport/GDTLibrary/Private/GDTUploadPackage_Private.h

@@ -1,0 +1,47 @@
+dependencies: \
+  /Users/baps/Documents/Projects/React-Native/NyotaApp-master/Source/node_modules/react-native/Libraries/NativeAnimation/RCTNativeAnimatedNodesManager.m \
+  /Users/baps/Documents/Projects/React-Native/NyotaApp-master/Source/ios/Pods/Target\ Support\ Files/React-RCTAnimation/React-RCTAnimation-prefix.pch \
+  /Users/baps/Documents/Projects/React-Native/NyotaApp-master/Source/node_modules/react-native/Libraries/NativeAnimation/RCTNativeAnimatedNodesManager.h \
+  /Users/baps/Documents/Projects/React-Native/NyotaApp-master/Source/ios/Pods/Headers/Public/React-Core/React/RCTBridgeModule.h \
+  /Users/baps/Documents/Projects/React-Native/NyotaApp-master/Source/ios/Pods/Headers/Public/React-Core/React/RCTDefines.h \
+  /Users/baps/Documents/Projects/React-Native/NyotaApp-master/Source/ios/Pods/Headers/Public/React-Core/React/RCTUIManager.h \
+  /Users/baps/Documents/Projects/React-Native/NyotaApp-master/Source/ios/Pods/Headers/Public/React-Core/React/RCTBridge.h \
+  /Users/baps/Documents/Projects/React-Native/NyotaApp-master/Source/ios/Pods/Headers/Public/React-Core/React/RCTBridgeDelegate.h \
+  /Users/baps/Documents/Projects/React-Native/NyotaApp-master/Source/ios/Pods/Headers/Public/React-Core/React/RCTJavaScriptLoader.h \
+  /Users/baps/Documents/Projects/React-Native/NyotaApp-master/Source/ios/Pods/Headers/Public/React-Core/React/RCTFrameUpdate.h \
+  /Users/baps/Documents/Projects/React-Native/NyotaApp-master/Source/ios/Pods/Headers/Public/React-Core/React/RCTInvalidating.h \
+  /Users/baps/Documents/Projects/React-Native/NyotaApp-master/Source/ios/Pods/Headers/Public/React-Core/React/RCTRootView.h \
+  /Users/baps/Documents/Projects/React-Native/NyotaApp-master/Source/ios/Pods/Headers/Public/React-Core/React/RCTViewManager.h \
+  /Users/baps/Documents/Projects/React-Native/NyotaApp-master/Source/ios/Pods/Headers/Public/React-Core/React/RCTConvert.h \
+  /Users/baps/Documents/Projects/React-Native/NyotaApp-master/Source/ios/Pods/Headers/Public/React-Core/React/RCTAnimationType.h \
+  /Users/baps/Documents/Projects/React-Native/NyotaApp-master/Source/ios/Pods/Headers/Public/React-Core/React/RCTBorderStyle.h \
+  /Users/baps/Documents/Projects/React-Native/NyotaApp-master/Source/ios/Pods/Headers/Public/React-Core/React/RCTLog.h \
+  /Users/baps/Documents/Projects/React-Native/NyotaApp-master/Source/ios/Pods/Headers/Public/React-Core/React/RCTAssert.h \
+  /Users/baps/Documents/Projects/React-Native/NyotaApp-master/Source/ios/Pods/Headers/Public/React-Core/React/RCTUtils.h \
+  /Users/baps/Documents/Projects/React-Native/NyotaApp-master/Source/ios/Pods/Headers/Public/React-Core/React/RCTPointerEvents.h \
+  /Users/baps/Documents/Projects/React-Native/NyotaApp-master/Source/ios/Pods/Headers/Public/React-Core/React/RCTTextDecorationLineType.h \
+  /Users/baps/Documents/Projects/React-Native/NyotaApp-master/Source/ios/Pods/Headers/Private/yoga/Yoga.h \
+  /Users/baps/Documents/Projects/React-Native/NyotaApp-master/Source/ios/Pods/Headers/Private/yoga/YGEnums.h \
+  /Users/baps/Documents/Projects/React-Native/NyotaApp-master/Source/ios/Pods/Headers/Private/yoga/YGMacros.h \
+  /Users/baps/Documents/Projects/React-Native/NyotaApp-master/Source/ios/Pods/Headers/Private/yoga/YGValue.h \
+  /Users/baps/Documents/Projects/React-Native/NyotaApp-master/Source/ios/Pods/Headers/Public/React-Core/React/RCTEventDispatcher.h \
+  /Users/baps/Documents/Projects/React-Native/NyotaApp-master/Source/ios/Pods/Headers/Public/React-Core/React/UIView+React.h \
+  /Users/baps/Documents/Projects/React-Native/NyotaApp-master/Source/ios/Pods/Headers/Public/React-Core/React/RCTComponent.h \
+  /Users/baps/Documents/Projects/React-Native/NyotaApp-master/Source/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTAdditionAnimatedNode.h \
+  /Users/baps/Documents/Projects/React-Native/NyotaApp-master/Source/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTValueAnimatedNode.h \
+  /Users/baps/Documents/Projects/React-Native/NyotaApp-master/Source/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTAnimatedNode.h \
+  /Users/baps/Documents/Projects/React-Native/NyotaApp-master/Source/node_modules/react-native/Libraries/NativeAnimation/Drivers/RCTAnimationDriver.h \
+  /Users/baps/Documents/Projects/React-Native/NyotaApp-master/Source/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTDiffClampAnimatedNode.h \
+  /Users/baps/Documents/Projects/React-Native/NyotaApp-master/Source/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTDivisionAnimatedNode.h \
+  /Users/baps/Documents/Projects/React-Native/NyotaApp-master/Source/node_modules/react-native/Libraries/NativeAnimation/Drivers/RCTEventAnimation.h \
+  /Users/baps/Documents/Projects/React-Native/NyotaApp-master/Source/node_modules/react-native/Libraries/NativeAnimation/Drivers/RCTFrameAnimation.h \
+  /Users/baps/Documents/Projects/React-Native/NyotaApp-master/Source/node_modules/react-native/Libraries/NativeAnimation/Drivers/RCTDecayAnimation.h \
+  /Users/baps/Documents/Projects/React-Native/NyotaApp-master/Source/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTInterpolationAnimatedNode.h \
+  /Users/baps/Documents/Projects/React-Native/NyotaApp-master/Source/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTModuloAnimatedNode.h \
+  /Users/baps/Documents/Projects/React-Native/NyotaApp-master/Source/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTMultiplicationAnimatedNode.h \
+  /Users/baps/Documents/Projects/React-Native/NyotaApp-master/Source/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTPropsAnimatedNode.h \
+  /Users/baps/Documents/Projects/React-Native/NyotaApp-master/Source/node_modules/react-native/Libraries/NativeAnimation/Drivers/RCTSpringAnimation.h \
+  /Users/baps/Documents/Projects/React-Native/NyotaApp-master/Source/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTStyleAnimatedNode.h \
+  /Users/baps/Documents/Projects/React-Native/NyotaApp-master/Source/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTSubtractionAnimatedNode.h \
+  /Users/baps/Documents/Projects/React-Native/NyotaApp-master/Source/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTTransformAnimatedNode.h \
+  /Users/baps/Documents/Projects/React-Native/NyotaApp-master/Source/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTTrackingAnimatedNode.h

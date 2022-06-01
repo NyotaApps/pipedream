@@ -1,0 +1,20 @@
+dependencies: \
+  /Users/baps/Documents/Projects/React-Native/NyotaApp-master/Source/ios/Pods/FirebaseInstanceID/Firebase/InstanceID/FIRInstanceIDTokenManager.m \
+  /Users/baps/Documents/Projects/React-Native/NyotaApp-master/Source/ios/Pods/FirebaseInstanceID/Firebase/InstanceID/FIRInstanceIDTokenManager.h \
+  /Users/baps/Documents/Projects/React-Native/NyotaApp-master/Source/ios/Pods/FirebaseInstanceID/Firebase/InstanceID/Public/FIRInstanceID.h \
+  /Users/baps/Documents/Projects/React-Native/NyotaApp-master/Source/ios/Pods/FirebaseInstanceID/Firebase/InstanceID/FIRInstanceIDAuthKeyChain.h \
+  /Users/baps/Documents/Projects/React-Native/NyotaApp-master/Source/ios/Pods/FirebaseInstanceID/Firebase/InstanceID/FIRInstanceIDAuthService.h \
+  /Users/baps/Documents/Projects/React-Native/NyotaApp-master/Source/ios/Pods/FirebaseInstanceID/Firebase/InstanceID/FIRInstanceIDCheckinService.h \
+  /Users/baps/Documents/Projects/React-Native/NyotaApp-master/Source/ios/Pods/FirebaseInstanceID/Firebase/InstanceID/FIRInstanceIDUtilities.h \
+  /Users/baps/Documents/Projects/React-Native/NyotaApp-master/Source/ios/Pods/FirebaseInstanceID/Firebase/InstanceID/FIRInstanceIDCheckinPreferences.h \
+  /Users/baps/Documents/Projects/React-Native/NyotaApp-master/Source/ios/Pods/FirebaseInstanceID/Firebase/InstanceID/FIRInstanceIDConstants.h \
+  /Users/baps/Documents/Projects/React-Native/NyotaApp-master/Source/ios/Pods/FirebaseInstanceID/Firebase/InstanceID/FIRInstanceIDDefines.h \
+  /Users/baps/Documents/Projects/React-Native/NyotaApp-master/Source/ios/Pods/FirebaseInstanceID/Firebase/InstanceID/FIRInstanceIDLogger.h \
+  /Users/baps/Documents/Projects/React-Native/NyotaApp-master/Source/ios/Pods/FirebaseInstanceID/Firebase/InstanceID/FIRIMessageCode.h \
+  /Users/baps/Documents/Projects/React-Native/NyotaApp-master/Source/ios/Pods/FirebaseInstanceID/Firebase/InstanceID/FIRInstanceIDStore.h \
+  /Users/baps/Documents/Projects/React-Native/NyotaApp-master/Source/ios/Pods/FirebaseInstanceID/Firebase/InstanceID/FIRInstanceIDTokenDeleteOperation.h \
+  /Users/baps/Documents/Projects/React-Native/NyotaApp-master/Source/ios/Pods/FirebaseInstanceID/Firebase/InstanceID/FIRInstanceIDTokenOperation.h \
+  /Users/baps/Documents/Projects/React-Native/NyotaApp-master/Source/ios/Pods/FirebaseInstanceID/Firebase/InstanceID/FIRInstanceIDTokenFetchOperation.h \
+  /Users/baps/Documents/Projects/React-Native/NyotaApp-master/Source/ios/Pods/FirebaseInstanceID/Firebase/InstanceID/FIRInstanceIDTokenInfo.h \
+  /Users/baps/Documents/Projects/React-Native/NyotaApp-master/Source/ios/Pods/FirebaseInstanceID/Firebase/InstanceID/FIRInstanceIDAPNSInfo.h \
+  /Users/baps/Documents/Projects/React-Native/NyotaApp-master/Source/ios/Pods/FirebaseInstanceID/Firebase/InstanceID/NSError+FIRInstanceID.h

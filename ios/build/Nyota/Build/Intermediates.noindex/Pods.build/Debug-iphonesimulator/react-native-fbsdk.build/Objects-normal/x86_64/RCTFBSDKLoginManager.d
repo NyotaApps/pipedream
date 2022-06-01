@@ -1,0 +1,35 @@
+dependencies: \
+  /Users/baps/Documents/Projects/React-Native/NyotaApp-master/Source/node_modules/react-native-fbsdk/ios/RCTFBSDK/login/RCTFBSDKLoginManager.m \
+  /Users/baps/Documents/Projects/React-Native/NyotaApp-master/Source/ios/Pods/Target\ Support\ Files/react-native-fbsdk/react-native-fbsdk-prefix.pch \
+  /Users/baps/Documents/Projects/React-Native/NyotaApp-master/Source/node_modules/react-native-fbsdk/ios/RCTFBSDK/login/RCTFBSDKLoginManager.h \
+  /Users/baps/Documents/Projects/React-Native/NyotaApp-master/Source/ios/Pods/Headers/Public/React-Core/React/RCTBridgeModule.h \
+  /Users/baps/Documents/Projects/React-Native/NyotaApp-master/Source/ios/Pods/Headers/Public/React-Core/React/RCTDefines.h \
+  /Users/baps/Documents/Projects/React-Native/NyotaApp-master/Source/ios/Pods/Headers/Public/React-DevSupport/React/RCTInspectorDevServerHelper.h \
+  /Users/baps/Documents/Projects/React-Native/NyotaApp-master/Source/ios/Pods/Headers/Public/React-DevSupport/React/RCTPackagerConnection.h \
+  /Users/baps/Documents/Projects/React-Native/NyotaApp-master/Source/ios/Pods/Headers/Public/React-Core/React/RCTUtils.h \
+  /Users/baps/Documents/Projects/React-Native/NyotaApp-master/Source/ios/Pods/Headers/Public/React-Core/React/RCTAssert.h \
+  /Users/baps/Documents/Projects/React-Native/NyotaApp-master/Source/node_modules/react-native-fbsdk/ios/RCTFBSDK/login/RCTConvert+FBSDKLogin.h \
+  /Users/baps/Documents/Projects/React-Native/NyotaApp-master/Source/ios/Pods/Headers/Public/React-Core/React/RCTConvert.h \
+  /Users/baps/Documents/Projects/React-Native/NyotaApp-master/Source/ios/Pods/Headers/Public/React-Core/React/RCTAnimationType.h \
+  /Users/baps/Documents/Projects/React-Native/NyotaApp-master/Source/ios/Pods/Headers/Public/React-Core/React/RCTBorderStyle.h \
+  /Users/baps/Documents/Projects/React-Native/NyotaApp-master/Source/ios/Pods/Headers/Public/React-Core/React/RCTLog.h \
+  /Users/baps/Documents/Projects/React-Native/NyotaApp-master/Source/ios/Pods/Headers/Public/React-Core/React/RCTPointerEvents.h \
+  /Users/baps/Documents/Projects/React-Native/NyotaApp-master/Source/ios/Pods/Headers/Public/React-Core/React/RCTTextDecorationLineType.h \
+  /Users/baps/Documents/Projects/React-Native/NyotaApp-master/Source/ios/Pods/Headers/Private/yoga/Yoga.h \
+  /Users/baps/Documents/Projects/React-Native/NyotaApp-master/Source/ios/Pods/Headers/Private/yoga/YGEnums.h \
+  /Users/baps/Documents/Projects/React-Native/NyotaApp-master/Source/ios/Pods/Headers/Private/yoga/YGMacros.h \
+  /Users/baps/Documents/Projects/React-Native/NyotaApp-master/Source/ios/Pods/Headers/Private/yoga/YGValue.h \
+  /Users/baps/Documents/Projects/React-Native/NyotaApp-master/Source/ios/Pods/Headers/Private/FBSDKLoginKit/FBSDKLoginKit.h \
+  /Users/baps/Documents/Projects/React-Native/NyotaApp-master/Source/ios/Pods/Headers/Private/FBSDKLoginKit/FBSDKDeviceLoginCodeInfo.h \
+  /Users/baps/Documents/Projects/React-Native/NyotaApp-master/Source/ios/Pods/Headers/Private/FBSDKLoginKit/FBSDKDeviceLoginManager.h \
+  /Users/baps/Documents/Projects/React-Native/NyotaApp-master/Source/ios/Pods/Headers/Private/FBSDKLoginKit/FBSDKDeviceLoginManagerResult.h \
+  /Users/baps/Documents/Projects/React-Native/NyotaApp-master/Source/ios/Pods/Headers/Private/FBSDKCoreKit/FBSDKAccessToken.h \
+  /Users/baps/Documents/Projects/React-Native/NyotaApp-master/Source/ios/Pods/Headers/Private/FBSDKCoreKit/FBSDKCopying.h \
+  /Users/baps/Documents/Projects/React-Native/NyotaApp-master/Source/ios/Pods/Headers/Private/FBSDKCoreKit/FBSDKGraphRequestConnection.h \
+  /Users/baps/Documents/Projects/React-Native/NyotaApp-master/Source/ios/Pods/Headers/Private/FBSDKLoginKit/FBSDKLoginConstants.h \
+  /Users/baps/Documents/Projects/React-Native/NyotaApp-master/Source/ios/Pods/Headers/Private/FBSDKLoginKit/FBSDKLoginButton.h \
+  /Users/baps/Documents/Projects/React-Native/NyotaApp-master/Source/ios/Pods/Headers/Private/FBSDKCoreKit/FBSDKButton.h \
+  /Users/baps/Documents/Projects/React-Native/NyotaApp-master/Source/ios/Pods/Headers/Private/FBSDKLoginKit/FBSDKLoginManager.h \
+  /Users/baps/Documents/Projects/React-Native/NyotaApp-master/Source/ios/Pods/Headers/Private/FBSDKLoginKit/FBSDKTooltipView.h \
+  /Users/baps/Documents/Projects/React-Native/NyotaApp-master/Source/ios/Pods/Headers/Private/FBSDKLoginKit/FBSDKLoginManagerLoginResult.h \
+  /Users/baps/Documents/Projects/React-Native/NyotaApp-master/Source/ios/Pods/Headers/Private/FBSDKLoginKit/FBSDKLoginTooltipView.h

@@ -1,0 +1,22 @@
+dependencies: \
+  /Users/baps/Documents/Projects/React-Native/NyotaApp-master/Source/ios/Pods/GoogleDataTransportCCTSupport/GoogleDataTransportCCTSupport/GDTCCTLibrary/GDTCCTUploader.m \
+  /Users/baps/Documents/Projects/React-Native/NyotaApp-master/Source/ios/Pods/GoogleDataTransportCCTSupport/GoogleDataTransportCCTSupport/GDTCCTLibrary/Private/GDTCCTUploader.h \
+  /Users/baps/Documents/Projects/React-Native/NyotaApp-master/Source/ios/Pods/Headers/Private/GoogleDataTransport/GDTUploader.h \
+  /Users/baps/Documents/Projects/React-Native/NyotaApp-master/Source/ios/Pods/Headers/Private/GoogleDataTransport/GDTClock.h \
+  /Users/baps/Documents/Projects/React-Native/NyotaApp-master/Source/ios/Pods/Headers/Private/GoogleDataTransport/GDTLifecycle.h \
+  /Users/baps/Documents/Projects/React-Native/NyotaApp-master/Source/ios/Pods/Headers/Private/GoogleDataTransport/GDTPlatform.h \
+  /Users/baps/Documents/Projects/React-Native/NyotaApp-master/Source/ios/Pods/Headers/Private/GoogleDataTransport/GDTPrioritizer.h \
+  /Users/baps/Documents/Projects/React-Native/NyotaApp-master/Source/ios/Pods/Headers/Private/GoogleDataTransport/GDTUploadPackage.h \
+  /Users/baps/Documents/Projects/React-Native/NyotaApp-master/Source/ios/Pods/Headers/Private/GoogleDataTransport/GDTTargets.h \
+  /Users/baps/Documents/Projects/React-Native/NyotaApp-master/Source/ios/Pods/Headers/Private/GoogleDataTransport/GDTConsoleLogger.h \
+  /Users/baps/Documents/Projects/React-Native/NyotaApp-master/Source/ios/Pods/Headers/Private/GoogleDataTransport/GDTRegistrar.h \
+  /Users/baps/Documents/Projects/React-Native/NyotaApp-master/Source/ios/Pods/Headers/Private/nanopb/pb.h \
+  /Users/baps/Documents/Projects/React-Native/NyotaApp-master/Source/ios/Pods/Headers/Private/nanopb/pb_decode.h \
+  /Users/baps/Documents/Projects/React-Native/NyotaApp-master/Source/ios/Pods/Headers/Private/nanopb/pb_encode.h \
+  /Users/baps/Documents/Projects/React-Native/NyotaApp-master/Source/ios/Pods/GoogleDataTransportCCTSupport/GoogleDataTransportCCTSupport/GDTCCTLibrary/Private/GDTCCTNanopbHelpers.h \
+  /Users/baps/Documents/Projects/React-Native/NyotaApp-master/Source/ios/Pods/Headers/Private/GoogleDataTransport/GDTStoredEvent.h \
+  /Users/baps/Documents/Projects/React-Native/NyotaApp-master/Source/ios/Pods/Headers/Private/GoogleDataTransport/GDTDataFuture.h \
+  /Users/baps/Documents/Projects/React-Native/NyotaApp-master/Source/ios/Pods/Headers/Private/GoogleDataTransport/GDTEvent.h \
+  /Users/baps/Documents/Projects/React-Native/NyotaApp-master/Source/ios/Pods/Headers/Private/GoogleDataTransport/GDTEventDataObject.h \
+  /Users/baps/Documents/Projects/React-Native/NyotaApp-master/Source/ios/Pods/GoogleDataTransportCCTSupport/GoogleDataTransportCCTSupport/GDTCCTLibrary/Protogen/nanopb/cct.nanopb.h \
+  /Users/baps/Documents/Projects/React-Native/NyotaApp-master/Source/ios/Pods/GoogleDataTransportCCTSupport/GoogleDataTransportCCTSupport/GDTCCTLibrary/Private/GDTCCTPrioritizer.h

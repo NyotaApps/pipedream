@@ -1,0 +1,950 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/baps/Documents/Projects/Nyota Latest 2/Source/android/app/src/main/AndroidManifest.xml:1:1-71:12
+INJECTED from /Users/baps/Documents/Projects/Nyota Latest 2/Source/android/app/src/main/AndroidManifest.xml:1:1-71:12
+INJECTED from /Users/baps/Documents/Projects/Nyota Latest 2/Source/android/app/src/main/AndroidManifest.xml:1:1-71:12
+INJECTED from /Users/baps/Documents/Projects/Nyota Latest 2/Source/android/app/src/main/AndroidManifest.xml:1:1-71:12
+MERGED from [:rn-fetch-blob] /Users/baps/Documents/Projects/Nyota Latest 2/Source/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-47:12
+MERGED from [:react-native-flurry-sdk] /Users/baps/Documents/Projects/Nyota Latest 2/Source/node_modules/react-native-flurry-sdk/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-14:12
+MERGED from [:react-native-localization] /Users/baps/Documents/Projects/Nyota Latest 2/Source/node_modules/react-native-localization/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-image-resizer] /Users/baps/Documents/Projects/Nyota Latest 2/Source/node_modules/react-native-image-resizer/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-image-picker] /Users/baps/Documents/Projects/Nyota Latest 2/Source/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-21:12
+MERGED from [:@react-native-community_geolocation] /Users/baps/Documents/Projects/Nyota Latest 2/Source/node_modules/@react-native-community/geolocation/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-9:12
+MERGED from [:rn-range-slider] /Users/baps/Documents/Projects/Nyota Latest 2/Source/node_modules/rn-range-slider/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-camera-kit] /Users/baps/Documents/Projects/Nyota Latest 2/Source/node_modules/react-native-camera-kit/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-15:12
+MERGED from [:react-native-fbsdk] /Users/baps/Documents/Projects/Nyota Latest 2/Source/node_modules/react-native-fbsdk/android/build/intermediates/library_manifest/release/AndroidManifest.xml:21:1-30:12
+MERGED from [:react-native-share] /Users/baps/Documents/Projects/Nyota Latest 2/Source/node_modules/react-native-share/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-28:12
+MERGED from [:react-native-firebase] /Users/baps/Documents/Projects/Nyota Latest 2/Source/node_modules/react-native-firebase/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-23:12
+MERGED from [com.google.firebase:firebase-analytics:17.2.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/8a0e73f6244760b4036bb075a55eb972/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-crash:16.2.1] /Users/baps/.gradle/caches/transforms-2/files-2.1/3b598cd40c1ab336f395231059af7ee6/AndroidManifest.xml:17:1-32:12
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] /Users/baps/.gradle/caches/transforms-2/files-2.1/ac1271c2b83844a56f0640736042454a/AndroidManifest.xml:17:1-22:12
+MERGED from [:react-native-android-location-enabler] /Users/baps/Documents/Projects/Nyota Latest 2/Source/node_modules/react-native-android-location-enabler/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-location:17.0.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/139194824ec4b5a3f771b6b7bae8c71c/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-messaging:20.0.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/fb1008d6f82c03a586aabf266cdf8c86/AndroidManifest.xml:17:1-37:12
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/6ef138efe58dbef215147e1f96b521f8/AndroidManifest.xml:17:1-36:12
+MERGED from [com.google.firebase:firebase-iid:20.0.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/660197f1adcabe7504a35678c277dfd9/AndroidManifest.xml:17:1-47:12
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/fecfeaef4526648a74326c48e1c319e8/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-base:17.1.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/9e9cfae217800191967b0671cc936250/AndroidManifest.xml:17:1-29:12
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.10.1] /Users/baps/.gradle/caches/transforms-2/files-2.1/9950719ccb22cd92415e946a3e6f12c6/AndroidManifest.xml:2:1-26:12
+MERGED from [:react-native-webview] /Users/baps/Documents/Projects/Nyota Latest 2/Source/node_modules/react-native-webview/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-23:12
+MERGED from [:react-native-default-preference] /Users/baps/Documents/Projects/Nyota Latest 2/Source/node_modules/react-native-default-preference/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-fast-image] /Users/baps/Documents/Projects/Nyota Latest 2/Source/node_modules/react-native-fast-image/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-vector-icons] /Users/baps/Documents/Projects/Nyota Latest 2/Source/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-gesture-handler] /Users/baps/Documents/Projects/Nyota Latest 2/Source/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-geocoder] /Users/baps/Documents/Projects/Nyota Latest 2/Source/node_modules/react-native-geocoder/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native:0.60.5] /Users/baps/.gradle/caches/transforms-2/files-2.1/e4efc51afcea3449adaddc0a877e97a1/AndroidManifest.xml:2:1-13:12
+MERGED from [org.webkit:android-jsc:r245459] /Users/baps/.gradle/caches/transforms-2/files-2.1/2cc34a53ff665fe84ec947f089497dff/AndroidManifest.xml:2:1-11:12
+MERGED from [com.flurry.android:analytics:12.3.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/d06c0b0aab6191eceff866c1f0fb0b03/AndroidManifest.xml:3:1-21:12
+MERGED from [com.flurry.android:marketing:12.3.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/3de1cc6f8e7f0464fad41926ebeb0ff4/AndroidManifest.xml:3:1-31:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/37ac1dc9612f11387940537f267552be/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.android:facebook-login:5.15.3] /Users/baps/.gradle/caches/transforms-2/files-2.1/6b1d5bebb007833bf6de2ed73905c858/AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-share:5.15.3] /Users/baps/.gradle/caches/transforms-2/files-2.1/fa9cb9b8c041370012409ed27b3af0f5/AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-common:5.15.3] /Users/baps/.gradle/caches/transforms-2/files-2.1/5d30c46f51c88c4e03c9896f89ab6956/AndroidManifest.xml:21:1-52:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/baps/.gradle/caches/transforms-2/files-2.1/c5dc703bf7dc74c80cea63b986ca70eb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.android:facebook-core:5.15.3] /Users/baps/.gradle/caches/transforms-2/files-2.1/c80e3584beaa4034e858be68c38b9050/AndroidManifest.xml:21:1-53:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/2bce69b4a520c320a8cc8ae49fcffa1b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.multidex:multidex:2.0.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/c452973c4775f19cd23db28a7386069c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-measurement:17.2.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/b5f3d25d8bffb169cf9bc420054a788b/AndroidManifest.xml:17:1-55:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.2.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/f222b9ba1ce01bb67a46a594ec0e6cb3/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.firebase:firebase-common:19.0.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/f86c172a1dcb6877664cbca2ad1b191a/AndroidManifest.xml:2:1-19:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/f50b60c0ab0da5f2a1d3fdcf5517003f/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/1e4bf55d3fbacb584fbbab61236db712/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/488ac8965eb62ce2aa349ed58839a1e4/AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/cab5cb35f21c894462a99b97c6d156d4/AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.android.gms:play-services-measurement-base:17.2.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/cab25dc6259da69910e2bc2f66ddf742/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/71a836578e2c079369dd2453d676cc2a/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/5c077c663b534126e227d92fdf96b4b6/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/acbe1d550f25f8ba4bff976bddbc6925/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/e0945a7540a67fa0be85db7a3288dc7a/AndroidManifest.xml:17:1-28:12
+MERGED from [com.github.bumptech.glide:okhttp3-integration:4.9.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/6095c5470dbd847b8014ca8eb7c6fa53/AndroidManifest.xml:2:1-16:12
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/05519d9df285a3912940b8b9bb84a9d4/AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/ceb274923e55509ad1a2fc54ce9313f3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/14b49dc7176fa026e2f319d4c60202a2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.browser:browser:1.0.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/deb347d01bbab894d3146a2b758ba7fe/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/8fd414e63b7b55319e71b0c148022ff5/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/025b138b977e0c4cdf3761144cbb698b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/baps/.gradle/caches/transforms-2/files-2.1/0ef8692b7ede14497b1f8accc70ce758/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/ec844eaa84a3c7fdefbd3b1000eec72e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/95b347d294ae91a6984fa0ee0dbe9a83/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/a8d377912b350d49ac8d536dd6476aaf/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/3630fa6af694397318bafe9cc9614ed9/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/a9d21a77f3646c31443eb5fb81dea25f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/35e30670ad07fed1f6b69339baa485b9/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/f29f067d418a8885a59404e1b2721d50/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/2cef48d436698dc2faaee78cf7306c3e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/ebecfbf52011157d036649db76b6fcc7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] /Users/baps/.gradle/caches/transforms-2/files-2.1/e5d33d0230e6b1c60405a0c25aace152/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/313be8b30182e8210e1b85dc9dea1fed/AndroidManifest.xml:17:1-25:12
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.7.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/9aa6e39d181e103713fb2e8bb4382d40/AndroidManifest.xml:45:1-56:12
+MERGED from [com.crashlytics.sdk.android:beta:1.2.10] /Users/baps/.gradle/caches/transforms-2/files-2.1/6d21c71818e6e14042a0bc0e47c82556/AndroidManifest.xml:2:1-13:12
+MERGED from [com.crashlytics.sdk.android:answers:1.4.7] /Users/baps/.gradle/caches/transforms-2/files-2.1/47928b74a8450ab0a1fac5ca2e3b4f7f/AndroidManifest.xml:2:1-13:12
+MERGED from [io.fabric.sdk.android:fabric:1.4.8] /Users/baps/.gradle/caches/transforms-2/files-2.1/fca3275bc76b75e472c4af9f75f69c24/AndroidManifest.xml:22:1-33:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/b5ecac3de4a0ba5217fae10768a0073a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/4c34de02f4a9281f6955fa7c513a27bf/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/7ea18a9471990d622f4717b3a990da75/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/38b31a685ee51e94232bdcc02fd59f06/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/ba3d6a7b611b56b15c7f5fe4d4846cf5/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/dbd05fe38c4916d9b68ae4ca73c64a19/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/4a7d99df0c1b78dec3d3d3373993dcdd/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/9c82f2ff98f5e5e47deba6ff6ad99e45/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/7d11da2eafd5a786168872bada9acd56/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/a002fbf7c30a527cafb8975ed70a1415/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/1a029dbb9fdf9c59217012c7cb3523c1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/0cebe9133a7776e5d6bb199cd99ef2aa/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/cf5caf2166617d6023917901bc5d9780/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/ee268d5c1a2914a9dc3b7543f2272869/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/31b20965b998059c7e79fcbcc1e455fe/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/db15c9188520ebed6cb850c8720680c7/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/508f6324a75627663989203bad8a32e2/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/7dcfd49af4e46f5bc64be6afbd6ce14a/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/1c5aa3ed711d24c05b2f9ee15a1d9dfb/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/4eaf977c4a3155d36754a9614652bb51/AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.installreferrer:installreferrer:1.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/a633780462fa24e69f187a3efa8cfbad/AndroidManifest.xml:2:1-13:12
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/ee4494820b9e669bb15e93b25eaebe61/AndroidManifest.xml:2:1-9:12
+INJECTED from /Users/baps/Documents/Projects/Nyota Latest 2/Source/android/app/src/main/AndroidManifest.xml:1:1-71:12
+INJECTED from /Users/baps/Documents/Projects/Nyota Latest 2/Source/android/app/src/main/AndroidManifest.xml:1:1-71:12
+INJECTED from /Users/baps/Documents/Projects/Nyota Latest 2/Source/android/app/src/main/AndroidManifest.xml:1:1-71:12
+	package
+		ADDED from /Users/baps/Documents/Projects/Nyota Latest 2/Source/android/app/src/main/AndroidManifest.xml:2:3-22
+		INJECTED from /Users/baps/Documents/Projects/Nyota Latest 2/Source/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/baps/Documents/Projects/Nyota Latest 2/Source/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/baps/Documents/Projects/Nyota Latest 2/Source/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/baps/Documents/Projects/Nyota Latest 2/Source/android/app/src/main/AndroidManifest.xml:1:1-71:12
+		INJECTED from /Users/baps/Documents/Projects/Nyota Latest 2/Source/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/baps/Documents/Projects/Nyota Latest 2/Source/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/baps/Documents/Projects/Nyota Latest 2/Source/android/app/src/main/AndroidManifest.xml:1:1-71:12
+		INJECTED from /Users/baps/Documents/Projects/Nyota Latest 2/Source/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/baps/Documents/Projects/Nyota Latest 2/Source/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/baps/Documents/Projects/Nyota Latest 2/Source/android/app/src/main/AndroidManifest.xml:4:5-67
+MERGED from [:rn-fetch-blob] /Users/baps/Documents/Projects/Nyota Latest 2/Source/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/release/AndroidManifest.xml:15:5-67
+MERGED from [:rn-fetch-blob] /Users/baps/Documents/Projects/Nyota Latest 2/Source/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/release/AndroidManifest.xml:15:5-67
+MERGED from [:react-native-firebase] /Users/baps/Documents/Projects/Nyota Latest 2/Source/node_modules/react-native-firebase/android/build/intermediates/library_manifest/release/AndroidManifest.xml:11:5-67
+MERGED from [:react-native-firebase] /Users/baps/Documents/Projects/Nyota Latest 2/Source/node_modules/react-native-firebase/android/build/intermediates/library_manifest/release/AndroidManifest.xml:11:5-67
+MERGED from [com.google.firebase:firebase-crash:16.2.1] /Users/baps/.gradle/caches/transforms-2/files-2.1/3b598cd40c1ab336f395231059af7ee6/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-crash:16.2.1] /Users/baps/.gradle/caches/transforms-2/files-2.1/3b598cd40c1ab336f395231059af7ee6/AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/6ef138efe58dbef215147e1f96b521f8/AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/6ef138efe58dbef215147e1f96b521f8/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:20.0.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/660197f1adcabe7504a35678c277dfd9/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:20.0.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/660197f1adcabe7504a35678c277dfd9/AndroidManifest.xml:23:5-67
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.10.1] /Users/baps/.gradle/caches/transforms-2/files-2.1/9950719ccb22cd92415e946a3e6f12c6/AndroidManifest.xml:16:5-67
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.10.1] /Users/baps/.gradle/caches/transforms-2/files-2.1/9950719ccb22cd92415e946a3e6f12c6/AndroidManifest.xml:16:5-67
+MERGED from [com.flurry.android:analytics:12.3.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/d06c0b0aab6191eceff866c1f0fb0b03/AndroidManifest.xml:12:5-67
+MERGED from [com.flurry.android:analytics:12.3.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/d06c0b0aab6191eceff866c1f0fb0b03/AndroidManifest.xml:12:5-67
+MERGED from [com.google.android.gms:play-services-measurement:17.2.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/b5f3d25d8bffb169cf9bc420054a788b/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement:17.2.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/b5f3d25d8bffb169cf9bc420054a788b/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/488ac8965eb62ce2aa349ed58839a1e4/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/488ac8965eb62ce2aa349ed58839a1e4/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/cab5cb35f21c894462a99b97c6d156d4/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/cab5cb35f21c894462a99b97c6d156d4/AndroidManifest.xml:23:5-67
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.7.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/9aa6e39d181e103713fb2e8bb4382d40/AndroidManifest.xml:52:5-67
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.7.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/9aa6e39d181e103713fb2e8bb4382d40/AndroidManifest.xml:52:5-67
+MERGED from [com.crashlytics.sdk.android:beta:1.2.10] /Users/baps/.gradle/caches/transforms-2/files-2.1/6d21c71818e6e14042a0bc0e47c82556/AndroidManifest.xml:9:5-67
+MERGED from [com.crashlytics.sdk.android:beta:1.2.10] /Users/baps/.gradle/caches/transforms-2/files-2.1/6d21c71818e6e14042a0bc0e47c82556/AndroidManifest.xml:9:5-67
+MERGED from [com.crashlytics.sdk.android:answers:1.4.7] /Users/baps/.gradle/caches/transforms-2/files-2.1/47928b74a8450ab0a1fac5ca2e3b4f7f/AndroidManifest.xml:9:5-67
+MERGED from [com.crashlytics.sdk.android:answers:1.4.7] /Users/baps/.gradle/caches/transforms-2/files-2.1/47928b74a8450ab0a1fac5ca2e3b4f7f/AndroidManifest.xml:9:5-67
+MERGED from [io.fabric.sdk.android:fabric:1.4.8] /Users/baps/.gradle/caches/transforms-2/files-2.1/fca3275bc76b75e472c4af9f75f69c24/AndroidManifest.xml:29:5-67
+MERGED from [io.fabric.sdk.android:fabric:1.4.8] /Users/baps/.gradle/caches/transforms-2/files-2.1/fca3275bc76b75e472c4af9f75f69c24/AndroidManifest.xml:29:5-67
+	android:name
+		ADDED from /Users/baps/Documents/Projects/Nyota Latest 2/Source/android/app/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.CAMERA
+ADDED from /Users/baps/Documents/Projects/Nyota Latest 2/Source/android/app/src/main/AndroidManifest.xml:5:5-64
+MERGED from [:react-native-camera-kit] /Users/baps/Documents/Projects/Nyota Latest 2/Source/node_modules/react-native-camera-kit/android/build/intermediates/library_manifest/release/AndroidManifest.xml:11:5-65
+MERGED from [:react-native-camera-kit] /Users/baps/Documents/Projects/Nyota Latest 2/Source/node_modules/react-native-camera-kit/android/build/intermediates/library_manifest/release/AndroidManifest.xml:11:5-65
+	android:name
+		ADDED from /Users/baps/Documents/Projects/Nyota Latest 2/Source/android/app/src/main/AndroidManifest.xml:5:22-62
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/baps/Documents/Projects/Nyota Latest 2/Source/android/app/src/main/AndroidManifest.xml:6:5-80
+MERGED from [:rn-fetch-blob] /Users/baps/Documents/Projects/Nyota Latest 2/Source/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/release/AndroidManifest.xml:33:5-81
+MERGED from [:rn-fetch-blob] /Users/baps/Documents/Projects/Nyota Latest 2/Source/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/release/AndroidManifest.xml:33:5-81
+MERGED from [:react-native-camera-kit] /Users/baps/Documents/Projects/Nyota Latest 2/Source/node_modules/react-native-camera-kit/android/build/intermediates/library_manifest/release/AndroidManifest.xml:13:5-81
+MERGED from [:react-native-camera-kit] /Users/baps/Documents/Projects/Nyota Latest 2/Source/node_modules/react-native-camera-kit/android/build/intermediates/library_manifest/release/AndroidManifest.xml:13:5-81
+MERGED from [:react-native-share] /Users/baps/Documents/Projects/Nyota Latest 2/Source/node_modules/react-native-share/android/build/intermediates/library_manifest/release/AndroidManifest.xml:12:5-81
+MERGED from [:react-native-share] /Users/baps/Documents/Projects/Nyota Latest 2/Source/node_modules/react-native-share/android/build/intermediates/library_manifest/release/AndroidManifest.xml:12:5-81
+	android:name
+		ADDED from /Users/baps/Documents/Projects/Nyota Latest 2/Source/android/app/src/main/AndroidManifest.xml:6:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/baps/Documents/Projects/Nyota Latest 2/Source/android/app/src/main/AndroidManifest.xml:7:5-79
+MERGED from [:react-native-camera-kit] /Users/baps/Documents/Projects/Nyota Latest 2/Source/node_modules/react-native-camera-kit/android/build/intermediates/library_manifest/release/AndroidManifest.xml:12:5-80
+MERGED from [:react-native-camera-kit] /Users/baps/Documents/Projects/Nyota Latest 2/Source/node_modules/react-native-camera-kit/android/build/intermediates/library_manifest/release/AndroidManifest.xml:12:5-80
+	android:name
+		ADDED from /Users/baps/Documents/Projects/Nyota Latest 2/Source/android/app/src/main/AndroidManifest.xml:7:22-77
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/baps/Documents/Projects/Nyota Latest 2/Source/android/app/src/main/AndroidManifest.xml:9:5-78
+	android:name
+		ADDED from /Users/baps/Documents/Projects/Nyota Latest 2/Source/android/app/src/main/AndroidManifest.xml:9:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/baps/Documents/Projects/Nyota Latest 2/Source/android/app/src/main/AndroidManifest.xml:11:5-80
+	android:name
+		ADDED from /Users/baps/Documents/Projects/Nyota Latest 2/Source/android/app/src/main/AndroidManifest.xml:11:22-78
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/baps/Documents/Projects/Nyota Latest 2/Source/android/app/src/main/AndroidManifest.xml:13:5-77
+	android:name
+		ADDED from /Users/baps/Documents/Projects/Nyota Latest 2/Source/android/app/src/main/AndroidManifest.xml:13:22-75
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from /Users/baps/Documents/Projects/Nyota Latest 2/Source/android/app/src/main/AndroidManifest.xml:14:5-80
+	android:name
+		ADDED from /Users/baps/Documents/Projects/Nyota Latest 2/Source/android/app/src/main/AndroidManifest.xml:14:22-78
+uses-permission#android.permission.VIBRATE
+ADDED from /Users/baps/Documents/Projects/Nyota Latest 2/Source/android/app/src/main/AndroidManifest.xml:15:5-66
+MERGED from [:react-native-flurry-sdk] /Users/baps/Documents/Projects/Nyota Latest 2/Source/node_modules/react-native-flurry-sdk/android/build/intermediates/library_manifest/release/AndroidManifest.xml:12:5-66
+MERGED from [:react-native-flurry-sdk] /Users/baps/Documents/Projects/Nyota Latest 2/Source/node_modules/react-native-flurry-sdk/android/build/intermediates/library_manifest/release/AndroidManifest.xml:12:5-66
+	android:name
+		ADDED from /Users/baps/Documents/Projects/Nyota Latest 2/Source/android/app/src/main/AndroidManifest.xml:15:22-63
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from /Users/baps/Documents/Projects/Nyota Latest 2/Source/android/app/src/main/AndroidManifest.xml:16:5-82
+MERGED from [com.google.firebase:firebase-iid:20.0.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/660197f1adcabe7504a35678c277dfd9/AndroidManifest.xml:26:5-82
+MERGED from [com.google.firebase:firebase-iid:20.0.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/660197f1adcabe7504a35678c277dfd9/AndroidManifest.xml:26:5-82
+	android:name
+		ADDED from /Users/baps/Documents/Projects/Nyota Latest 2/Source/android/app/src/main/AndroidManifest.xml:16:22-79
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /Users/baps/Documents/Projects/Nyota Latest 2/Source/android/app/src/main/AndroidManifest.xml:17:5-68
+MERGED from [:rn-fetch-blob] /Users/baps/Documents/Projects/Nyota Latest 2/Source/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/release/AndroidManifest.xml:21:5-68
+MERGED from [:rn-fetch-blob] /Users/baps/Documents/Projects/Nyota Latest 2/Source/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/release/AndroidManifest.xml:21:5-68
+MERGED from [:react-native-firebase] /Users/baps/Documents/Projects/Nyota Latest 2/Source/node_modules/react-native-firebase/android/build/intermediates/library_manifest/release/AndroidManifest.xml:12:5-68
+MERGED from [:react-native-firebase] /Users/baps/Documents/Projects/Nyota Latest 2/Source/node_modules/react-native-firebase/android/build/intermediates/library_manifest/release/AndroidManifest.xml:12:5-68
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/6ef138efe58dbef215147e1f96b521f8/AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/6ef138efe58dbef215147e1f96b521f8/AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:20.0.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/660197f1adcabe7504a35678c277dfd9/AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:20.0.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/660197f1adcabe7504a35678c277dfd9/AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement:17.2.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/b5f3d25d8bffb169cf9bc420054a788b/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement:17.2.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/b5f3d25d8bffb169cf9bc420054a788b/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/488ac8965eb62ce2aa349ed58839a1e4/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/488ac8965eb62ce2aa349ed58839a1e4/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/cab5cb35f21c894462a99b97c6d156d4/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/cab5cb35f21c894462a99b97c6d156d4/AndroidManifest.xml:25:5-68
+	android:name
+		ADDED from /Users/baps/Documents/Projects/Nyota Latest 2/Source/android/app/src/main/AndroidManifest.xml:17:22-65
+permission#com.nyota.permission.C2D_MESSAGE
+ADDED from /Users/baps/Documents/Projects/Nyota Latest 2/Source/android/app/src/main/AndroidManifest.xml:18:5-19:55
+	android:protectionLevel
+		ADDED from /Users/baps/Documents/Projects/Nyota Latest 2/Source/android/app/src/main/AndroidManifest.xml:19:17-52
+	android:name
+		ADDED from /Users/baps/Documents/Projects/Nyota Latest 2/Source/android/app/src/main/AndroidManifest.xml:18:17-64
+uses-permission#com.nyota.permission.C2D_MESSAGE
+ADDED from /Users/baps/Documents/Projects/Nyota Latest 2/Source/android/app/src/main/AndroidManifest.xml:20:5-72
+	android:name
+		ADDED from /Users/baps/Documents/Projects/Nyota Latest 2/Source/android/app/src/main/AndroidManifest.xml:20:22-69
+application
+ADDED from /Users/baps/Documents/Projects/Nyota Latest 2/Source/android/app/src/main/AndroidManifest.xml:22:5-69:19
+MERGED from [:rn-fetch-blob] /Users/baps/Documents/Projects/Nyota Latest 2/Source/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/release/AndroidManifest.xml:35:5-45:19
+MERGED from [:rn-fetch-blob] /Users/baps/Documents/Projects/Nyota Latest 2/Source/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/release/AndroidManifest.xml:35:5-45:19
+MERGED from [:react-native-image-picker] /Users/baps/Documents/Projects/Nyota Latest 2/Source/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:9:5-19:19
+MERGED from [:react-native-image-picker] /Users/baps/Documents/Projects/Nyota Latest 2/Source/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:9:5-19:19
+MERGED from [:react-native-fbsdk] /Users/baps/Documents/Projects/Nyota Latest 2/Source/node_modules/react-native-fbsdk/android/build/intermediates/library_manifest/release/AndroidManifest.xml:28:5-20
+MERGED from [:react-native-fbsdk] /Users/baps/Documents/Projects/Nyota Latest 2/Source/node_modules/react-native-fbsdk/android/build/intermediates/library_manifest/release/AndroidManifest.xml:28:5-20
+MERGED from [:react-native-share] /Users/baps/Documents/Projects/Nyota Latest 2/Source/node_modules/react-native-share/android/build/intermediates/library_manifest/release/AndroidManifest.xml:14:5-26:19
+MERGED from [:react-native-share] /Users/baps/Documents/Projects/Nyota Latest 2/Source/node_modules/react-native-share/android/build/intermediates/library_manifest/release/AndroidManifest.xml:14:5-26:19
+MERGED from [:react-native-firebase] /Users/baps/Documents/Projects/Nyota Latest 2/Source/node_modules/react-native-firebase/android/build/intermediates/library_manifest/release/AndroidManifest.xml:15:5-21:19
+MERGED from [:react-native-firebase] /Users/baps/Documents/Projects/Nyota Latest 2/Source/node_modules/react-native-firebase/android/build/intermediates/library_manifest/release/AndroidManifest.xml:15:5-21:19
+MERGED from [com.google.firebase:firebase-analytics:17.2.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/8a0e73f6244760b4036bb075a55eb972/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-analytics:17.2.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/8a0e73f6244760b4036bb075a55eb972/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-crash:16.2.1] /Users/baps/.gradle/caches/transforms-2/files-2.1/3b598cd40c1ab336f395231059af7ee6/AndroidManifest.xml:24:5-30:19
+MERGED from [com.google.firebase:firebase-crash:16.2.1] /Users/baps/.gradle/caches/transforms-2/files-2.1/3b598cd40c1ab336f395231059af7ee6/AndroidManifest.xml:24:5-30:19
+MERGED from [com.google.android.gms:play-services-location:17.0.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/139194824ec4b5a3f771b6b7bae8c71c/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:17.0.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/139194824ec4b5a3f771b6b7bae8c71c/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-messaging:20.0.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/fb1008d6f82c03a586aabf266cdf8c86/AndroidManifest.xml:22:5-35:19
+MERGED from [com.google.firebase:firebase-messaging:20.0.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/fb1008d6f82c03a586aabf266cdf8c86/AndroidManifest.xml:22:5-35:19
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/6ef138efe58dbef215147e1f96b521f8/AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/6ef138efe58dbef215147e1f96b521f8/AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.firebase:firebase-iid:20.0.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/660197f1adcabe7504a35678c277dfd9/AndroidManifest.xml:28:5-45:19
+MERGED from [com.google.firebase:firebase-iid:20.0.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/660197f1adcabe7504a35678c277dfd9/AndroidManifest.xml:28:5-45:19
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/fecfeaef4526648a74326c48e1c319e8/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/fecfeaef4526648a74326c48e1c319e8/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:17.1.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/9e9cfae217800191967b0671cc936250/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.1.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/9e9cfae217800191967b0671cc936250/AndroidManifest.xml:22:5-27:19
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.10.1] /Users/baps/.gradle/caches/transforms-2/files-2.1/9950719ccb22cd92415e946a3e6f12c6/AndroidManifest.xml:18:5-24:19
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.10.1] /Users/baps/.gradle/caches/transforms-2/files-2.1/9950719ccb22cd92415e946a3e6f12c6/AndroidManifest.xml:18:5-24:19
+MERGED from [:react-native-webview] /Users/baps/Documents/Projects/Nyota Latest 2/Source/node_modules/react-native-webview/android/build/intermediates/library_manifest/release/AndroidManifest.xml:11:5-21:19
+MERGED from [:react-native-webview] /Users/baps/Documents/Projects/Nyota Latest 2/Source/node_modules/react-native-webview/android/build/intermediates/library_manifest/release/AndroidManifest.xml:11:5-21:19
+MERGED from [com.facebook.react:react-native:0.60.5] /Users/baps/.gradle/caches/transforms-2/files-2.1/e4efc51afcea3449adaddc0a877e97a1/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.60.5] /Users/baps/.gradle/caches/transforms-2/files-2.1/e4efc51afcea3449adaddc0a877e97a1/AndroidManifest.xml:11:5-20
+MERGED from [com.flurry.android:analytics:12.3.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/d06c0b0aab6191eceff866c1f0fb0b03/AndroidManifest.xml:14:5-19:19
+MERGED from [com.flurry.android:analytics:12.3.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/d06c0b0aab6191eceff866c1f0fb0b03/AndroidManifest.xml:14:5-19:19
+MERGED from [com.flurry.android:marketing:12.3.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/3de1cc6f8e7f0464fad41926ebeb0ff4/AndroidManifest.xml:12:5-29:19
+MERGED from [com.flurry.android:marketing:12.3.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/3de1cc6f8e7f0464fad41926ebeb0ff4/AndroidManifest.xml:12:5-29:19
+MERGED from [com.facebook.android:facebook-login:5.15.3] /Users/baps/.gradle/caches/transforms-2/files-2.1/6b1d5bebb007833bf6de2ed73905c858/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-login:5.15.3] /Users/baps/.gradle/caches/transforms-2/files-2.1/6b1d5bebb007833bf6de2ed73905c858/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-share:5.15.3] /Users/baps/.gradle/caches/transforms-2/files-2.1/fa9cb9b8c041370012409ed27b3af0f5/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-share:5.15.3] /Users/baps/.gradle/caches/transforms-2/files-2.1/fa9cb9b8c041370012409ed27b3af0f5/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-common:5.15.3] /Users/baps/.gradle/caches/transforms-2/files-2.1/5d30c46f51c88c4e03c9896f89ab6956/AndroidManifest.xml:29:5-50:19
+MERGED from [com.facebook.android:facebook-common:5.15.3] /Users/baps/.gradle/caches/transforms-2/files-2.1/5d30c46f51c88c4e03c9896f89ab6956/AndroidManifest.xml:29:5-50:19
+MERGED from [com.facebook.android:facebook-core:5.15.3] /Users/baps/.gradle/caches/transforms-2/files-2.1/c80e3584beaa4034e858be68c38b9050/AndroidManifest.xml:28:5-51:19
+MERGED from [com.facebook.android:facebook-core:5.15.3] /Users/baps/.gradle/caches/transforms-2/files-2.1/c80e3584beaa4034e858be68c38b9050/AndroidManifest.xml:28:5-51:19
+MERGED from [com.google.android.gms:play-services-measurement:17.2.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/b5f3d25d8bffb169cf9bc420054a788b/AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.android.gms:play-services-measurement:17.2.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/b5f3d25d8bffb169cf9bc420054a788b/AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.2.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/f222b9ba1ce01bb67a46a594ec0e6cb3/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.2.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/f222b9ba1ce01bb67a46a594ec0e6cb3/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-common:19.0.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/f86c172a1dcb6877664cbca2ad1b191a/AndroidManifest.xml:11:5-17:19
+MERGED from [com.google.firebase:firebase-common:19.0.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/f86c172a1dcb6877664cbca2ad1b191a/AndroidManifest.xml:11:5-17:19
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/f50b60c0ab0da5f2a1d3fdcf5517003f/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/f50b60c0ab0da5f2a1d3fdcf5517003f/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/1e4bf55d3fbacb584fbbab61236db712/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/1e4bf55d3fbacb584fbbab61236db712/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/488ac8965eb62ce2aa349ed58839a1e4/AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/488ac8965eb62ce2aa349ed58839a1e4/AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.android.gms:play-services-measurement-base:17.2.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/cab25dc6259da69910e2bc2f66ddf742/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:17.2.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/cab25dc6259da69910e2bc2f66ddf742/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/71a836578e2c079369dd2453d676cc2a/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/71a836578e2c079369dd2453d676cc2a/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/5c077c663b534126e227d92fdf96b4b6/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/5c077c663b534126e227d92fdf96b4b6/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/acbe1d550f25f8ba4bff976bddbc6925/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/acbe1d550f25f8ba4bff976bddbc6925/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/e0945a7540a67fa0be85db7a3288dc7a/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/e0945a7540a67fa0be85db7a3288dc7a/AndroidManifest.xml:22:5-26:19
+MERGED from [com.github.bumptech.glide:okhttp3-integration:4.9.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/6095c5470dbd847b8014ca8eb7c6fa53/AndroidManifest.xml:10:5-14:19
+MERGED from [com.github.bumptech.glide:okhttp3-integration:4.9.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/6095c5470dbd847b8014ca8eb7c6fa53/AndroidManifest.xml:10:5-14:19
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/05519d9df285a3912940b8b9bb84a9d4/AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/05519d9df285a3912940b8b9bb84a9d4/AndroidManifest.xml:10:5-20
+MERGED from [androidx.core:core:1.0.1] /Users/baps/.gradle/caches/transforms-2/files-2.1/e5d33d0230e6b1c60405a0c25aace152/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] /Users/baps/.gradle/caches/transforms-2/files-2.1/e5d33d0230e6b1c60405a0c25aace152/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/313be8b30182e8210e1b85dc9dea1fed/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/313be8b30182e8210e1b85dc9dea1fed/AndroidManifest.xml:22:5-23:19
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.7.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/9aa6e39d181e103713fb2e8bb4382d40/AndroidManifest.xml:54:5-20
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.7.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/9aa6e39d181e103713fb2e8bb4382d40/AndroidManifest.xml:54:5-20
+MERGED from [com.crashlytics.sdk.android:beta:1.2.10] /Users/baps/.gradle/caches/transforms-2/files-2.1/6d21c71818e6e14042a0bc0e47c82556/AndroidManifest.xml:11:5-20
+MERGED from [com.crashlytics.sdk.android:beta:1.2.10] /Users/baps/.gradle/caches/transforms-2/files-2.1/6d21c71818e6e14042a0bc0e47c82556/AndroidManifest.xml:11:5-20
+MERGED from [com.crashlytics.sdk.android:answers:1.4.7] /Users/baps/.gradle/caches/transforms-2/files-2.1/47928b74a8450ab0a1fac5ca2e3b4f7f/AndroidManifest.xml:11:5-20
+MERGED from [com.crashlytics.sdk.android:answers:1.4.7] /Users/baps/.gradle/caches/transforms-2/files-2.1/47928b74a8450ab0a1fac5ca2e3b4f7f/AndroidManifest.xml:11:5-20
+MERGED from [io.fabric.sdk.android:fabric:1.4.8] /Users/baps/.gradle/caches/transforms-2/files-2.1/fca3275bc76b75e472c4af9f75f69c24/AndroidManifest.xml:31:5-20
+MERGED from [io.fabric.sdk.android:fabric:1.4.8] /Users/baps/.gradle/caches/transforms-2/files-2.1/fca3275bc76b75e472c4af9f75f69c24/AndroidManifest.xml:31:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/7ea18a9471990d622f4717b3a990da75/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/7ea18a9471990d622f4717b3a990da75/AndroidManifest.xml:9:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/4eaf977c4a3155d36754a9614652bb51/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/4eaf977c4a3155d36754a9614652bb51/AndroidManifest.xml:11:5-20
+MERGED from [com.android.installreferrer:installreferrer:1.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/a633780462fa24e69f187a3efa8cfbad/AndroidManifest.xml:11:5-20
+MERGED from [com.android.installreferrer:installreferrer:1.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/a633780462fa24e69f187a3efa8cfbad/AndroidManifest.xml:11:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] /Users/baps/.gradle/caches/transforms-2/files-2.1/e5d33d0230e6b1c60405a0c25aace152/AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from [com.facebook.android:facebook-login:5.15.3] /Users/baps/.gradle/caches/transforms-2/files-2.1/6b1d5bebb007833bf6de2ed73905c858/AndroidManifest.xml:28:18-44
+	android:label
+		ADDED from /Users/baps/Documents/Projects/Nyota Latest 2/Source/android/app/src/main/AndroidManifest.xml:25:7-39
+	android:roundIcon
+		ADDED from /Users/baps/Documents/Projects/Nyota Latest 2/Source/android/app/src/main/AndroidManifest.xml:27:7-52
+	android:icon
+		ADDED from /Users/baps/Documents/Projects/Nyota Latest 2/Source/android/app/src/main/AndroidManifest.xml:26:7-41
+	android:allowBackup
+		ADDED from /Users/baps/Documents/Projects/Nyota Latest 2/Source/android/app/src/main/AndroidManifest.xml:28:7-34
+	android:theme
+		ADDED from /Users/baps/Documents/Projects/Nyota Latest 2/Source/android/app/src/main/AndroidManifest.xml:29:7-38
+	android:usesCleartextTraffic
+		ADDED from /Users/baps/Documents/Projects/Nyota Latest 2/Source/android/app/src/main/AndroidManifest.xml:23:7-42
+	android:name
+		ADDED from /Users/baps/Documents/Projects/Nyota Latest 2/Source/android/app/src/main/AndroidManifest.xml:24:7-38
+meta-data#com.facebook.sdk.ApplicationId
+ADDED from /Users/baps/Documents/Projects/Nyota Latest 2/Source/android/app/src/main/AndroidManifest.xml:31:7-32:59
+	android:value
+		ADDED from /Users/baps/Documents/Projects/Nyota Latest 2/Source/android/app/src/main/AndroidManifest.xml:32:18-57
+	android:name
+		ADDED from /Users/baps/Documents/Projects/Nyota Latest 2/Source/android/app/src/main/AndroidManifest.xml:31:18-63
+activity#com.nyota.MainActivity
+ADDED from /Users/baps/Documents/Projects/Nyota Latest 2/Source/android/app/src/main/AndroidManifest.xml:34:7-44:18
+	android:screenOrientation
+		ADDED from /Users/baps/Documents/Projects/Nyota Latest 2/Source/android/app/src/main/AndroidManifest.xml:37:9-45
+	android:label
+		ADDED from /Users/baps/Documents/Projects/Nyota Latest 2/Source/android/app/src/main/AndroidManifest.xml:36:9-41
+	android:windowSoftInputMode
+		ADDED from /Users/baps/Documents/Projects/Nyota Latest 2/Source/android/app/src/main/AndroidManifest.xml:39:9-51
+	android:configChanges
+		ADDED from /Users/baps/Documents/Projects/Nyota Latest 2/Source/android/app/src/main/AndroidManifest.xml:38:9-79
+	android:name
+		ADDED from /Users/baps/Documents/Projects/Nyota Latest 2/Source/android/app/src/main/AndroidManifest.xml:35:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/baps/Documents/Projects/Nyota Latest 2/Source/android/app/src/main/AndroidManifest.xml:40:9-43:25
+action#android.intent.action.MAIN
+ADDED from /Users/baps/Documents/Projects/Nyota Latest 2/Source/android/app/src/main/AndroidManifest.xml:41:13-65
+	android:name
+		ADDED from /Users/baps/Documents/Projects/Nyota Latest 2/Source/android/app/src/main/AndroidManifest.xml:41:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/baps/Documents/Projects/Nyota Latest 2/Source/android/app/src/main/AndroidManifest.xml:42:13-73
+	android:name
+		ADDED from /Users/baps/Documents/Projects/Nyota Latest 2/Source/android/app/src/main/AndroidManifest.xml:42:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/baps/Documents/Projects/Nyota Latest 2/Source/android/app/src/main/AndroidManifest.xml:45:7-84
+	android:name
+		ADDED from /Users/baps/Documents/Projects/Nyota Latest 2/Source/android/app/src/main/AndroidManifest.xml:45:17-81
+service#io.invertase.firebase.messaging.RNFirebaseMessagingService
+ADDED from /Users/baps/Documents/Projects/Nyota Latest 2/Source/android/app/src/main/AndroidManifest.xml:47:7-51:15
+	android:name
+		ADDED from /Users/baps/Documents/Projects/Nyota Latest 2/Source/android/app/src/main/AndroidManifest.xml:47:16-89
+intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
+ADDED from /Users/baps/Documents/Projects/Nyota Latest 2/Source/android/app/src/main/AndroidManifest.xml:48:7-50:23
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from /Users/baps/Documents/Projects/Nyota Latest 2/Source/android/app/src/main/AndroidManifest.xml:49:11-72
+	android:name
+		ADDED from /Users/baps/Documents/Projects/Nyota Latest 2/Source/android/app/src/main/AndroidManifest.xml:49:19-69
+service#io.invertase.firebase.messaging.RNFirebaseInstanceIdService
+ADDED from /Users/baps/Documents/Projects/Nyota Latest 2/Source/android/app/src/main/AndroidManifest.xml:52:5-56:15
+	android:name
+		ADDED from /Users/baps/Documents/Projects/Nyota Latest 2/Source/android/app/src/main/AndroidManifest.xml:52:14-88
+intent-filter#action:name:com.google.firebase.INSTANCE_ID_EVENT
+ADDED from /Users/baps/Documents/Projects/Nyota Latest 2/Source/android/app/src/main/AndroidManifest.xml:53:7-55:23
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from /Users/baps/Documents/Projects/Nyota Latest 2/Source/android/app/src/main/AndroidManifest.xml:54:11-73
+	android:name
+		ADDED from /Users/baps/Documents/Projects/Nyota Latest 2/Source/android/app/src/main/AndroidManifest.xml:54:19-71
+service#io.invertase.firebase.messaging.RNFirebaseBackgroundMessagingService
+ADDED from /Users/baps/Documents/Projects/Nyota Latest 2/Source/android/app/src/main/AndroidManifest.xml:57:5-99
+	android:name
+		ADDED from /Users/baps/Documents/Projects/Nyota Latest 2/Source/android/app/src/main/AndroidManifest.xml:57:14-97
+receiver#io.invertase.firebase.notifications.RNFirebaseNotificationsRebootReceiver
+ADDED from /Users/baps/Documents/Projects/Nyota Latest 2/Source/android/app/src/main/AndroidManifest.xml:58:5-65:15
+	android:enabled
+		ADDED from /Users/baps/Documents/Projects/Nyota Latest 2/Source/android/app/src/main/AndroidManifest.xml:58:15-37
+	android:exported
+		ADDED from /Users/baps/Documents/Projects/Nyota Latest 2/Source/android/app/src/main/AndroidManifest.xml:58:38-61
+	android:name
+		ADDED from /Users/baps/Documents/Projects/Nyota Latest 2/Source/android/app/src/main/AndroidManifest.xml:58:62-150
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED+action:name:android.intent.action.QUICKBOOT_POWERON+action:name:com.htc.intent.action.QUICKBOOT_POWERON+category:name:android.intent.category.DEFAULT
+ADDED from /Users/baps/Documents/Projects/Nyota Latest 2/Source/android/app/src/main/AndroidManifest.xml:59:7-64:23
+action#android.intent.action.BOOT_COMPLETED
+ADDED from /Users/baps/Documents/Projects/Nyota Latest 2/Source/android/app/src/main/AndroidManifest.xml:60:11-72
+	android:name
+		ADDED from /Users/baps/Documents/Projects/Nyota Latest 2/Source/android/app/src/main/AndroidManifest.xml:60:19-70
+action#android.intent.action.QUICKBOOT_POWERON
+ADDED from /Users/baps/Documents/Projects/Nyota Latest 2/Source/android/app/src/main/AndroidManifest.xml:61:11-75
+	android:name
+		ADDED from /Users/baps/Documents/Projects/Nyota Latest 2/Source/android/app/src/main/AndroidManifest.xml:61:19-73
+action#com.htc.intent.action.QUICKBOOT_POWERON
+ADDED from /Users/baps/Documents/Projects/Nyota Latest 2/Source/android/app/src/main/AndroidManifest.xml:62:11-75
+	android:name
+		ADDED from /Users/baps/Documents/Projects/Nyota Latest 2/Source/android/app/src/main/AndroidManifest.xml:62:19-73
+category#android.intent.category.DEFAULT
+ADDED from /Users/baps/Documents/Projects/Nyota Latest 2/Source/android/app/src/main/AndroidManifest.xml:63:11-70
+	android:name
+		ADDED from /Users/baps/Documents/Projects/Nyota Latest 2/Source/android/app/src/main/AndroidManifest.xml:63:21-67
+meta-data#com.google.firebase.messaging.default_notification_icon
+ADDED from /Users/baps/Documents/Projects/Nyota Latest 2/Source/android/app/src/main/AndroidManifest.xml:66:4-126
+	android:resource
+		ADDED from /Users/baps/Documents/Projects/Nyota Latest 2/Source/android/app/src/main/AndroidManifest.xml:66:86-124
+	android:name
+		ADDED from /Users/baps/Documents/Projects/Nyota Latest 2/Source/android/app/src/main/AndroidManifest.xml:66:15-85
+meta-data#com.google.firebase.messaging.default_notification_channel_id
+ADDED from /Users/baps/Documents/Projects/Nyota Latest 2/Source/android/app/src/main/AndroidManifest.xml:67:4-118
+	android:value
+		ADDED from /Users/baps/Documents/Projects/Nyota Latest 2/Source/android/app/src/main/AndroidManifest.xml:67:92-116
+	android:name
+		ADDED from /Users/baps/Documents/Projects/Nyota Latest 2/Source/android/app/src/main/AndroidManifest.xml:67:15-91
+uses-sdk
+INJECTED from /Users/baps/Documents/Projects/Nyota Latest 2/Source/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/baps/Documents/Projects/Nyota Latest 2/Source/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/baps/Documents/Projects/Nyota Latest 2/Source/android/app/src/main/AndroidManifest.xml
+MERGED from [:rn-fetch-blob] /Users/baps/Documents/Projects/Nyota Latest 2/Source/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:rn-fetch-blob] /Users/baps/Documents/Projects/Nyota Latest 2/Source/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-flurry-sdk] /Users/baps/Documents/Projects/Nyota Latest 2/Source/node_modules/react-native-flurry-sdk/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-flurry-sdk] /Users/baps/Documents/Projects/Nyota Latest 2/Source/node_modules/react-native-flurry-sdk/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-localization] /Users/baps/Documents/Projects/Nyota Latest 2/Source/node_modules/react-native-localization/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-localization] /Users/baps/Documents/Projects/Nyota Latest 2/Source/node_modules/react-native-localization/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-image-resizer] /Users/baps/Documents/Projects/Nyota Latest 2/Source/node_modules/react-native-image-resizer/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-image-resizer] /Users/baps/Documents/Projects/Nyota Latest 2/Source/node_modules/react-native-image-resizer/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-image-picker] /Users/baps/Documents/Projects/Nyota Latest 2/Source/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-image-picker] /Users/baps/Documents/Projects/Nyota Latest 2/Source/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:@react-native-community_geolocation] /Users/baps/Documents/Projects/Nyota Latest 2/Source/node_modules/@react-native-community/geolocation/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:@react-native-community_geolocation] /Users/baps/Documents/Projects/Nyota Latest 2/Source/node_modules/@react-native-community/geolocation/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:rn-range-slider] /Users/baps/Documents/Projects/Nyota Latest 2/Source/node_modules/rn-range-slider/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:rn-range-slider] /Users/baps/Documents/Projects/Nyota Latest 2/Source/node_modules/rn-range-slider/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-camera-kit] /Users/baps/Documents/Projects/Nyota Latest 2/Source/node_modules/react-native-camera-kit/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-camera-kit] /Users/baps/Documents/Projects/Nyota Latest 2/Source/node_modules/react-native-camera-kit/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-fbsdk] /Users/baps/Documents/Projects/Nyota Latest 2/Source/node_modules/react-native-fbsdk/android/build/intermediates/library_manifest/release/AndroidManifest.xml:24:5-26:41
+MERGED from [:react-native-fbsdk] /Users/baps/Documents/Projects/Nyota Latest 2/Source/node_modules/react-native-fbsdk/android/build/intermediates/library_manifest/release/AndroidManifest.xml:24:5-26:41
+MERGED from [:react-native-share] /Users/baps/Documents/Projects/Nyota Latest 2/Source/node_modules/react-native-share/android/build/intermediates/library_manifest/release/AndroidManifest.xml:8:5-10:41
+MERGED from [:react-native-share] /Users/baps/Documents/Projects/Nyota Latest 2/Source/node_modules/react-native-share/android/build/intermediates/library_manifest/release/AndroidManifest.xml:8:5-10:41
+MERGED from [:react-native-firebase] /Users/baps/Documents/Projects/Nyota Latest 2/Source/node_modules/react-native-firebase/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-firebase] /Users/baps/Documents/Projects/Nyota Latest 2/Source/node_modules/react-native-firebase/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-analytics:17.2.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/8a0e73f6244760b4036bb075a55eb972/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:17.2.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/8a0e73f6244760b4036bb075a55eb972/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-crash:16.2.1] /Users/baps/.gradle/caches/transforms-2/files-2.1/3b598cd40c1ab336f395231059af7ee6/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-crash:16.2.1] /Users/baps/.gradle/caches/transforms-2/files-2.1/3b598cd40c1ab336f395231059af7ee6/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] /Users/baps/.gradle/caches/transforms-2/files-2.1/ac1271c2b83844a56f0640736042454a/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] /Users/baps/.gradle/caches/transforms-2/files-2.1/ac1271c2b83844a56f0640736042454a/AndroidManifest.xml:20:5-44
+MERGED from [:react-native-android-location-enabler] /Users/baps/Documents/Projects/Nyota Latest 2/Source/node_modules/react-native-android-location-enabler/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-android-location-enabler] /Users/baps/Documents/Projects/Nyota Latest 2/Source/node_modules/react-native-android-location-enabler/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services-location:17.0.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/139194824ec4b5a3f771b6b7bae8c71c/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:17.0.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/139194824ec4b5a3f771b6b7bae8c71c/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-messaging:20.0.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/fb1008d6f82c03a586aabf266cdf8c86/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging:20.0.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/fb1008d6f82c03a586aabf266cdf8c86/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/6ef138efe58dbef215147e1f96b521f8/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/6ef138efe58dbef215147e1f96b521f8/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:20.0.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/660197f1adcabe7504a35678c277dfd9/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:20.0.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/660197f1adcabe7504a35678c277dfd9/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/fecfeaef4526648a74326c48e1c319e8/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/fecfeaef4526648a74326c48e1c319e8/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:17.1.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/9e9cfae217800191967b0671cc936250/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.1.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/9e9cfae217800191967b0671cc936250/AndroidManifest.xml:20:5-44
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.10.1] /Users/baps/.gradle/caches/transforms-2/files-2.1/9950719ccb22cd92415e946a3e6f12c6/AndroidManifest.xml:12:5-14:63
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.10.1] /Users/baps/.gradle/caches/transforms-2/files-2.1/9950719ccb22cd92415e946a3e6f12c6/AndroidManifest.xml:12:5-14:63
+MERGED from [:react-native-webview] /Users/baps/Documents/Projects/Nyota Latest 2/Source/node_modules/react-native-webview/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-webview] /Users/baps/Documents/Projects/Nyota Latest 2/Source/node_modules/react-native-webview/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-default-preference] /Users/baps/Documents/Projects/Nyota Latest 2/Source/node_modules/react-native-default-preference/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-default-preference] /Users/baps/Documents/Projects/Nyota Latest 2/Source/node_modules/react-native-default-preference/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-fast-image] /Users/baps/Documents/Projects/Nyota Latest 2/Source/node_modules/react-native-fast-image/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-fast-image] /Users/baps/Documents/Projects/Nyota Latest 2/Source/node_modules/react-native-fast-image/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] /Users/baps/Documents/Projects/Nyota Latest 2/Source/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] /Users/baps/Documents/Projects/Nyota Latest 2/Source/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /Users/baps/Documents/Projects/Nyota Latest 2/Source/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /Users/baps/Documents/Projects/Nyota Latest 2/Source/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-geocoder] /Users/baps/Documents/Projects/Nyota Latest 2/Source/node_modules/react-native-geocoder/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-geocoder] /Users/baps/Documents/Projects/Nyota Latest 2/Source/node_modules/react-native-geocoder/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.60.5] /Users/baps/.gradle/caches/transforms-2/files-2.1/e4efc51afcea3449adaddc0a877e97a1/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.60.5] /Users/baps/.gradle/caches/transforms-2/files-2.1/e4efc51afcea3449adaddc0a877e97a1/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /Users/baps/.gradle/caches/transforms-2/files-2.1/2cc34a53ff665fe84ec947f089497dff/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /Users/baps/.gradle/caches/transforms-2/files-2.1/2cc34a53ff665fe84ec947f089497dff/AndroidManifest.xml:7:5-9:41
+MERGED from [com.flurry.android:analytics:12.3.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/d06c0b0aab6191eceff866c1f0fb0b03/AndroidManifest.xml:8:5-10:41
+MERGED from [com.flurry.android:analytics:12.3.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/d06c0b0aab6191eceff866c1f0fb0b03/AndroidManifest.xml:8:5-10:41
+MERGED from [com.flurry.android:marketing:12.3.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/3de1cc6f8e7f0464fad41926ebeb0ff4/AndroidManifest.xml:8:5-10:41
+MERGED from [com.flurry.android:marketing:12.3.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/3de1cc6f8e7f0464fad41926ebeb0ff4/AndroidManifest.xml:8:5-10:41
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/37ac1dc9612f11387940537f267552be/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/37ac1dc9612f11387940537f267552be/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.android:facebook-login:5.15.3] /Users/baps/.gradle/caches/transforms-2/files-2.1/6b1d5bebb007833bf6de2ed73905c858/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-login:5.15.3] /Users/baps/.gradle/caches/transforms-2/files-2.1/6b1d5bebb007833bf6de2ed73905c858/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-share:5.15.3] /Users/baps/.gradle/caches/transforms-2/files-2.1/fa9cb9b8c041370012409ed27b3af0f5/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-share:5.15.3] /Users/baps/.gradle/caches/transforms-2/files-2.1/fa9cb9b8c041370012409ed27b3af0f5/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-common:5.15.3] /Users/baps/.gradle/caches/transforms-2/files-2.1/5d30c46f51c88c4e03c9896f89ab6956/AndroidManifest.xml:25:5-27:41
+MERGED from [com.facebook.android:facebook-common:5.15.3] /Users/baps/.gradle/caches/transforms-2/files-2.1/5d30c46f51c88c4e03c9896f89ab6956/AndroidManifest.xml:25:5-27:41
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/baps/.gradle/caches/transforms-2/files-2.1/c5dc703bf7dc74c80cea63b986ca70eb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/baps/.gradle/caches/transforms-2/files-2.1/c5dc703bf7dc74c80cea63b986ca70eb/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.android:facebook-core:5.15.3] /Users/baps/.gradle/caches/transforms-2/files-2.1/c80e3584beaa4034e858be68c38b9050/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-core:5.15.3] /Users/baps/.gradle/caches/transforms-2/files-2.1/c80e3584beaa4034e858be68c38b9050/AndroidManifest.xml:24:5-26:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/2bce69b4a520c320a8cc8ae49fcffa1b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/2bce69b4a520c320a8cc8ae49fcffa1b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.multidex:multidex:2.0.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/c452973c4775f19cd23db28a7386069c/AndroidManifest.xml:20:5-43
+MERGED from [androidx.multidex:multidex:2.0.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/c452973c4775f19cd23db28a7386069c/AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-measurement:17.2.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/b5f3d25d8bffb169cf9bc420054a788b/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement:17.2.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/b5f3d25d8bffb169cf9bc420054a788b/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.2.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/f222b9ba1ce01bb67a46a594ec0e6cb3/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.2.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/f222b9ba1ce01bb67a46a594ec0e6cb3/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common:19.0.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/f86c172a1dcb6877664cbca2ad1b191a/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-common:19.0.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/f86c172a1dcb6877664cbca2ad1b191a/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/f50b60c0ab0da5f2a1d3fdcf5517003f/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/f50b60c0ab0da5f2a1d3fdcf5517003f/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/1e4bf55d3fbacb584fbbab61236db712/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/1e4bf55d3fbacb584fbbab61236db712/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/488ac8965eb62ce2aa349ed58839a1e4/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/488ac8965eb62ce2aa349ed58839a1e4/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/cab5cb35f21c894462a99b97c6d156d4/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/cab5cb35f21c894462a99b97c6d156d4/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:17.2.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/cab25dc6259da69910e2bc2f66ddf742/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:17.2.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/cab25dc6259da69910e2bc2f66ddf742/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/71a836578e2c079369dd2453d676cc2a/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/71a836578e2c079369dd2453d676cc2a/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/5c077c663b534126e227d92fdf96b4b6/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/5c077c663b534126e227d92fdf96b4b6/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/acbe1d550f25f8ba4bff976bddbc6925/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/acbe1d550f25f8ba4bff976bddbc6925/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/e0945a7540a67fa0be85db7a3288dc7a/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/e0945a7540a67fa0be85db7a3288dc7a/AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:okhttp3-integration:4.9.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/6095c5470dbd847b8014ca8eb7c6fa53/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:okhttp3-integration:4.9.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/6095c5470dbd847b8014ca8eb7c6fa53/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/05519d9df285a3912940b8b9bb84a9d4/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/05519d9df285a3912940b8b9bb84a9d4/AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/ceb274923e55509ad1a2fc54ce9313f3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/ceb274923e55509ad1a2fc54ce9313f3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/14b49dc7176fa026e2f319d4c60202a2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/14b49dc7176fa026e2f319d4c60202a2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.browser:browser:1.0.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/deb347d01bbab894d3146a2b758ba7fe/AndroidManifest.xml:20:5-44
+MERGED from [androidx.browser:browser:1.0.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/deb347d01bbab894d3146a2b758ba7fe/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/8fd414e63b7b55319e71b0c148022ff5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/8fd414e63b7b55319e71b0c148022ff5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/025b138b977e0c4cdf3761144cbb698b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/025b138b977e0c4cdf3761144cbb698b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/baps/.gradle/caches/transforms-2/files-2.1/0ef8692b7ede14497b1f8accc70ce758/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/baps/.gradle/caches/transforms-2/files-2.1/0ef8692b7ede14497b1f8accc70ce758/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/ec844eaa84a3c7fdefbd3b1000eec72e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/ec844eaa84a3c7fdefbd3b1000eec72e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/95b347d294ae91a6984fa0ee0dbe9a83/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/95b347d294ae91a6984fa0ee0dbe9a83/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/a8d377912b350d49ac8d536dd6476aaf/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/a8d377912b350d49ac8d536dd6476aaf/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/3630fa6af694397318bafe9cc9614ed9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/3630fa6af694397318bafe9cc9614ed9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/a9d21a77f3646c31443eb5fb81dea25f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/a9d21a77f3646c31443eb5fb81dea25f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/35e30670ad07fed1f6b69339baa485b9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/35e30670ad07fed1f6b69339baa485b9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/f29f067d418a8885a59404e1b2721d50/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/f29f067d418a8885a59404e1b2721d50/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/2cef48d436698dc2faaee78cf7306c3e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/2cef48d436698dc2faaee78cf7306c3e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/ebecfbf52011157d036649db76b6fcc7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/ebecfbf52011157d036649db76b6fcc7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /Users/baps/.gradle/caches/transforms-2/files-2.1/e5d33d0230e6b1c60405a0c25aace152/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /Users/baps/.gradle/caches/transforms-2/files-2.1/e5d33d0230e6b1c60405a0c25aace152/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/313be8b30182e8210e1b85dc9dea1fed/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/313be8b30182e8210e1b85dc9dea1fed/AndroidManifest.xml:20:5-44
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.7.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/9aa6e39d181e103713fb2e8bb4382d40/AndroidManifest.xml:50:5-43
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.7.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/9aa6e39d181e103713fb2e8bb4382d40/AndroidManifest.xml:50:5-43
+MERGED from [com.crashlytics.sdk.android:beta:1.2.10] /Users/baps/.gradle/caches/transforms-2/files-2.1/6d21c71818e6e14042a0bc0e47c82556/AndroidManifest.xml:7:5-43
+MERGED from [com.crashlytics.sdk.android:beta:1.2.10] /Users/baps/.gradle/caches/transforms-2/files-2.1/6d21c71818e6e14042a0bc0e47c82556/AndroidManifest.xml:7:5-43
+MERGED from [com.crashlytics.sdk.android:answers:1.4.7] /Users/baps/.gradle/caches/transforms-2/files-2.1/47928b74a8450ab0a1fac5ca2e3b4f7f/AndroidManifest.xml:7:5-43
+MERGED from [com.crashlytics.sdk.android:answers:1.4.7] /Users/baps/.gradle/caches/transforms-2/files-2.1/47928b74a8450ab0a1fac5ca2e3b4f7f/AndroidManifest.xml:7:5-43
+MERGED from [io.fabric.sdk.android:fabric:1.4.8] /Users/baps/.gradle/caches/transforms-2/files-2.1/fca3275bc76b75e472c4af9f75f69c24/AndroidManifest.xml:27:5-43
+MERGED from [io.fabric.sdk.android:fabric:1.4.8] /Users/baps/.gradle/caches/transforms-2/files-2.1/fca3275bc76b75e472c4af9f75f69c24/AndroidManifest.xml:27:5-43
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/b5ecac3de4a0ba5217fae10768a0073a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/b5ecac3de4a0ba5217fae10768a0073a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/4c34de02f4a9281f6955fa7c513a27bf/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/4c34de02f4a9281f6955fa7c513a27bf/AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/7ea18a9471990d622f4717b3a990da75/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/7ea18a9471990d622f4717b3a990da75/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/38b31a685ee51e94232bdcc02fd59f06/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/38b31a685ee51e94232bdcc02fd59f06/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/ba3d6a7b611b56b15c7f5fe4d4846cf5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/ba3d6a7b611b56b15c7f5fe4d4846cf5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/dbd05fe38c4916d9b68ae4ca73c64a19/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/dbd05fe38c4916d9b68ae4ca73c64a19/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/4a7d99df0c1b78dec3d3d3373993dcdd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/4a7d99df0c1b78dec3d3d3373993dcdd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/9c82f2ff98f5e5e47deba6ff6ad99e45/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/9c82f2ff98f5e5e47deba6ff6ad99e45/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/7d11da2eafd5a786168872bada9acd56/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/7d11da2eafd5a786168872bada9acd56/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/a002fbf7c30a527cafb8975ed70a1415/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/a002fbf7c30a527cafb8975ed70a1415/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/1a029dbb9fdf9c59217012c7cb3523c1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/1a029dbb9fdf9c59217012c7cb3523c1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/0cebe9133a7776e5d6bb199cd99ef2aa/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/0cebe9133a7776e5d6bb199cd99ef2aa/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/cf5caf2166617d6023917901bc5d9780/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/cf5caf2166617d6023917901bc5d9780/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/ee268d5c1a2914a9dc3b7543f2272869/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/ee268d5c1a2914a9dc3b7543f2272869/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/31b20965b998059c7e79fcbcc1e455fe/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/31b20965b998059c7e79fcbcc1e455fe/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/db15c9188520ebed6cb850c8720680c7/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/db15c9188520ebed6cb850c8720680c7/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/508f6324a75627663989203bad8a32e2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/508f6324a75627663989203bad8a32e2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/7dcfd49af4e46f5bc64be6afbd6ce14a/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/7dcfd49af4e46f5bc64be6afbd6ce14a/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/1c5aa3ed711d24c05b2f9ee15a1d9dfb/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/1c5aa3ed711d24c05b2f9ee15a1d9dfb/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/4eaf977c4a3155d36754a9614652bb51/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/4eaf977c4a3155d36754a9614652bb51/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.installreferrer:installreferrer:1.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/a633780462fa24e69f187a3efa8cfbad/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.installreferrer:installreferrer:1.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/a633780462fa24e69f187a3efa8cfbad/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/ee4494820b9e669bb15e93b25eaebe61/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/ee4494820b9e669bb15e93b25eaebe61/AndroidManifest.xml:5:5-7:41
+INJECTED from /Users/baps/Documents/Projects/Nyota Latest 2/Source/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/baps/Documents/Projects/Nyota Latest 2/Source/android/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.crashlytics.sdk.android:crashlytics:2.10.1] /Users/baps/.gradle/caches/transforms-2/files-2.1/9950719ccb22cd92415e946a3e6f12c6/AndroidManifest.xml:14:9-60
+	android:targetSdkVersion
+		INJECTED from /Users/baps/Documents/Projects/Nyota Latest 2/Source/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/baps/Documents/Projects/Nyota Latest 2/Source/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/baps/Documents/Projects/Nyota Latest 2/Source/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/baps/Documents/Projects/Nyota Latest 2/Source/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/baps/Documents/Projects/Nyota Latest 2/Source/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/baps/Documents/Projects/Nyota Latest 2/Source/android/app/src/main/AndroidManifest.xml
+uses-permission#com.android.vending.CHECK_LICENSE
+ADDED from [:rn-fetch-blob] /Users/baps/Documents/Projects/Nyota Latest 2/Source/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/release/AndroidManifest.xml:12:5-73
+	android:name
+		ADDED from [:rn-fetch-blob] /Users/baps/Documents/Projects/Nyota Latest 2/Source/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/release/AndroidManifest.xml:12:22-70
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [:rn-fetch-blob] /Users/baps/Documents/Projects/Nyota Latest 2/Source/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/release/AndroidManifest.xml:27:5-79
+MERGED from [:react-native-flurry-sdk] /Users/baps/Documents/Projects/Nyota Latest 2/Source/node_modules/react-native-flurry-sdk/android/build/intermediates/library_manifest/release/AndroidManifest.xml:11:5-79
+MERGED from [:react-native-flurry-sdk] /Users/baps/Documents/Projects/Nyota Latest 2/Source/node_modules/react-native-flurry-sdk/android/build/intermediates/library_manifest/release/AndroidManifest.xml:11:5-79
+MERGED from [:react-native-firebase] /Users/baps/Documents/Projects/Nyota Latest 2/Source/node_modules/react-native-firebase/android/build/intermediates/library_manifest/release/AndroidManifest.xml:13:5-79
+MERGED from [:react-native-firebase] /Users/baps/Documents/Projects/Nyota Latest 2/Source/node_modules/react-native-firebase/android/build/intermediates/library_manifest/release/AndroidManifest.xml:13:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/6ef138efe58dbef215147e1f96b521f8/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/6ef138efe58dbef215147e1f96b521f8/AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-iid:20.0.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/660197f1adcabe7504a35678c277dfd9/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:20.0.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/660197f1adcabe7504a35678c277dfd9/AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-measurement:17.2.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/b5f3d25d8bffb169cf9bc420054a788b/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement:17.2.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/b5f3d25d8bffb169cf9bc420054a788b/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/488ac8965eb62ce2aa349ed58839a1e4/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/488ac8965eb62ce2aa349ed58839a1e4/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/cab5cb35f21c894462a99b97c6d156d4/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/cab5cb35f21c894462a99b97c6d156d4/AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from [:rn-fetch-blob] /Users/baps/Documents/Projects/Nyota Latest 2/Source/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/release/AndroidManifest.xml:27:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [:rn-fetch-blob] /Users/baps/Documents/Projects/Nyota Latest 2/Source/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/release/AndroidManifest.xml:30:5-76
+	android:name
+		ADDED from [:rn-fetch-blob] /Users/baps/Documents/Projects/Nyota Latest 2/Source/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/release/AndroidManifest.xml:30:22-73
+provider#com.RNFetchBlob.Utils.FileProvider
+ADDED from [:rn-fetch-blob] /Users/baps/Documents/Projects/Nyota Latest 2/Source/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/release/AndroidManifest.xml:36:9-44:20
+	android:grantUriPermissions
+		ADDED from [:rn-fetch-blob] /Users/baps/Documents/Projects/Nyota Latest 2/Source/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/release/AndroidManifest.xml:40:13-47
+	android:authorities
+		ADDED from [:rn-fetch-blob] /Users/baps/Documents/Projects/Nyota Latest 2/Source/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/release/AndroidManifest.xml:38:13-60
+	android:exported
+		ADDED from [:rn-fetch-blob] /Users/baps/Documents/Projects/Nyota Latest 2/Source/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/release/AndroidManifest.xml:39:13-37
+	android:name
+		ADDED from [:rn-fetch-blob] /Users/baps/Documents/Projects/Nyota Latest 2/Source/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/release/AndroidManifest.xml:37:13-62
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:rn-fetch-blob] /Users/baps/Documents/Projects/Nyota Latest 2/Source/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/release/AndroidManifest.xml:41:13-43:58
+	android:resource
+		ADDED from [:rn-fetch-blob] /Users/baps/Documents/Projects/Nyota Latest 2/Source/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/release/AndroidManifest.xml:43:17-55
+	android:name
+		ADDED from [:rn-fetch-blob] /Users/baps/Documents/Projects/Nyota Latest 2/Source/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/release/AndroidManifest.xml:42:17-67
+provider#com.imagepicker.FileProvider
+ADDED from [:react-native-image-picker] /Users/baps/Documents/Projects/Nyota Latest 2/Source/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:10:9-18:20
+	android:grantUriPermissions
+		ADDED from [:react-native-image-picker] /Users/baps/Documents/Projects/Nyota Latest 2/Source/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:14:13-47
+	android:authorities
+		ADDED from [:react-native-image-picker] /Users/baps/Documents/Projects/Nyota Latest 2/Source/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:12:13-60
+	android:exported
+		ADDED from [:react-native-image-picker] /Users/baps/Documents/Projects/Nyota Latest 2/Source/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:13:13-37
+	android:name
+		ADDED from [:react-native-image-picker] /Users/baps/Documents/Projects/Nyota Latest 2/Source/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:11:13-56
+provider#cl.json.RNShareFileProvider
+ADDED from [:react-native-share] /Users/baps/Documents/Projects/Nyota Latest 2/Source/node_modules/react-native-share/android/build/intermediates/library_manifest/release/AndroidManifest.xml:15:9-25:20
+	android:grantUriPermissions
+		ADDED from [:react-native-share] /Users/baps/Documents/Projects/Nyota Latest 2/Source/node_modules/react-native-share/android/build/intermediates/library_manifest/release/AndroidManifest.xml:19:13-47
+	android:authorities
+		ADDED from [:react-native-share] /Users/baps/Documents/Projects/Nyota Latest 2/Source/node_modules/react-native-share/android/build/intermediates/library_manifest/release/AndroidManifest.xml:17:13-72
+	android:exported
+		ADDED from [:react-native-share] /Users/baps/Documents/Projects/Nyota Latest 2/Source/node_modules/react-native-share/android/build/intermediates/library_manifest/release/AndroidManifest.xml:18:13-37
+	tools:replace
+		ADDED from [:react-native-share] /Users/baps/Documents/Projects/Nyota Latest 2/Source/node_modules/react-native-share/android/build/intermediates/library_manifest/release/AndroidManifest.xml:20:13-48
+	android:name
+		ADDED from [:react-native-share] /Users/baps/Documents/Projects/Nyota Latest 2/Source/node_modules/react-native-share/android/build/intermediates/library_manifest/release/AndroidManifest.xml:16:13-55
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [:react-native-firebase] /Users/baps/Documents/Projects/Nyota Latest 2/Source/node_modules/react-native-firebase/android/build/intermediates/library_manifest/release/AndroidManifest.xml:16:9-20:19
+MERGED from [com.google.firebase:firebase-crash:16.2.1] /Users/baps/.gradle/caches/transforms-2/files-2.1/3b598cd40c1ab336f395231059af7ee6/AndroidManifest.xml:25:9-29:19
+MERGED from [com.google.firebase:firebase-crash:16.2.1] /Users/baps/.gradle/caches/transforms-2/files-2.1/3b598cd40c1ab336f395231059af7ee6/AndroidManifest.xml:25:9-29:19
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/6ef138efe58dbef215147e1f96b521f8/AndroidManifest.xml:27:9-33:19
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/6ef138efe58dbef215147e1f96b521f8/AndroidManifest.xml:27:9-33:19
+MERGED from [com.google.firebase:firebase-iid:20.0.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/660197f1adcabe7504a35678c277dfd9/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-iid:20.0.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/660197f1adcabe7504a35678c277dfd9/AndroidManifest.xml:29:9-35:19
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement-api:17.2.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/6ef138efe58dbef215147e1f96b521f8/AndroidManifest.xml:29:13-37
+	android:name
+		ADDED from [:react-native-firebase] /Users/baps/Documents/Projects/Nyota Latest 2/Source/node_modules/react-native-firebase/android/build/intermediates/library_manifest/release/AndroidManifest.xml:16:18-89
+meta-data#com.google.firebase.components:io.invertase.firebase.ReactNativeFirebaseAppRegistrar
+ADDED from [:react-native-firebase] /Users/baps/Documents/Projects/Nyota Latest 2/Source/node_modules/react-native-firebase/android/build/intermediates/library_manifest/release/AndroidManifest.xml:17:13-19:85
+	android:value
+		ADDED from [:react-native-firebase] /Users/baps/Documents/Projects/Nyota Latest 2/Source/node_modules/react-native-firebase/android/build/intermediates/library_manifest/release/AndroidManifest.xml:19:17-82
+	android:name
+		ADDED from [:react-native-firebase] /Users/baps/Documents/Projects/Nyota Latest 2/Source/node_modules/react-native-firebase/android/build/intermediates/library_manifest/release/AndroidManifest.xml:18:17-116
+meta-data#com.google.firebase.components:com.google.firebase.crash.component.FirebaseCrashRegistrar
+ADDED from [com.google.firebase:firebase-crash:16.2.1] /Users/baps/.gradle/caches/transforms-2/files-2.1/3b598cd40c1ab336f395231059af7ee6/AndroidManifest.xml:26:13-28:85
+	android:value
+		ADDED from [com.google.firebase:firebase-crash:16.2.1] /Users/baps/.gradle/caches/transforms-2/files-2.1/3b598cd40c1ab336f395231059af7ee6/AndroidManifest.xml:28:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-crash:16.2.1] /Users/baps/.gradle/caches/transforms-2/files-2.1/3b598cd40c1ab336f395231059af7ee6/AndroidManifest.xml:27:17-121
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:20.0.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/fb1008d6f82c03a586aabf266cdf8c86/AndroidManifest.xml:28:9-34:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:20.0.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/fb1008d6f82c03a586aabf266cdf8c86/AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:20.0.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/fb1008d6f82c03a586aabf266cdf8c86/AndroidManifest.xml:29:13-82
+meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
+ADDED from [com.google.android.gms:play-services-measurement-api:17.2.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/6ef138efe58dbef215147e1f96b521f8/AndroidManifest.xml:30:13-32:85
+	android:value
+		ADDED from [com.google.android.gms:play-services-measurement-api:17.2.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/6ef138efe58dbef215147e1f96b521f8/AndroidManifest.xml:32:17-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:17.2.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/6ef138efe58dbef215147e1f96b521f8/AndroidManifest.xml:31:17-139
+meta-data#com.google.firebase.components:com.google.firebase.iid.Registrar
+ADDED from [com.google.firebase:firebase-iid:20.0.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/660197f1adcabe7504a35678c277dfd9/AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-iid:20.0.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/660197f1adcabe7504a35678c277dfd9/AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:20.0.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/660197f1adcabe7504a35678c277dfd9/AndroidManifest.xml:33:17-96
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:20.0.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/660197f1adcabe7504a35678c277dfd9/AndroidManifest.xml:37:9-44:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:20.0.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/660197f1adcabe7504a35678c277dfd9/AndroidManifest.xml:39:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:20.0.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/660197f1adcabe7504a35678c277dfd9/AndroidManifest.xml:40:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:20.0.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/660197f1adcabe7504a35678c277dfd9/AndroidManifest.xml:38:13-78
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:20.0.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/660197f1adcabe7504a35678c277dfd9/AndroidManifest.xml:41:13-43:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:20.0.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/660197f1adcabe7504a35678c277dfd9/AndroidManifest.xml:42:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:20.0.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/660197f1adcabe7504a35678c277dfd9/AndroidManifest.xml:42:25-78
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.1.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/9e9cfae217800191967b0671cc936250/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/9e9cfae217800191967b0671cc936250/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/9e9cfae217800191967b0671cc936250/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/9e9cfae217800191967b0671cc936250/AndroidManifest.xml:24:13-79
+provider#com.crashlytics.android.CrashlyticsInitProvider
+ADDED from [com.crashlytics.sdk.android:crashlytics:2.10.1] /Users/baps/.gradle/caches/transforms-2/files-2.1/9950719ccb22cd92415e946a3e6f12c6/AndroidManifest.xml:19:9-23:38
+	android:authorities
+		ADDED from [com.crashlytics.sdk.android:crashlytics:2.10.1] /Users/baps/.gradle/caches/transforms-2/files-2.1/9950719ccb22cd92415e946a3e6f12c6/AndroidManifest.xml:21:13-75
+	android:exported
+		ADDED from [com.crashlytics.sdk.android:crashlytics:2.10.1] /Users/baps/.gradle/caches/transforms-2/files-2.1/9950719ccb22cd92415e946a3e6f12c6/AndroidManifest.xml:22:13-37
+	android:initOrder
+		ADDED from [com.crashlytics.sdk.android:crashlytics:2.10.1] /Users/baps/.gradle/caches/transforms-2/files-2.1/9950719ccb22cd92415e946a3e6f12c6/AndroidManifest.xml:23:13-35
+	android:name
+		ADDED from [com.crashlytics.sdk.android:crashlytics:2.10.1] /Users/baps/.gradle/caches/transforms-2/files-2.1/9950719ccb22cd92415e946a3e6f12c6/AndroidManifest.xml:20:13-75
+provider#com.reactnativecommunity.webview.RNCWebViewFileProvider
+ADDED from [:react-native-webview] /Users/baps/Documents/Projects/Nyota Latest 2/Source/node_modules/react-native-webview/android/build/intermediates/library_manifest/release/AndroidManifest.xml:12:9-20:20
+	android:grantUriPermissions
+		ADDED from [:react-native-webview] /Users/baps/Documents/Projects/Nyota Latest 2/Source/node_modules/react-native-webview/android/build/intermediates/library_manifest/release/AndroidManifest.xml:16:13-47
+	android:authorities
+		ADDED from [:react-native-webview] /Users/baps/Documents/Projects/Nyota Latest 2/Source/node_modules/react-native-webview/android/build/intermediates/library_manifest/release/AndroidManifest.xml:14:13-64
+	android:exported
+		ADDED from [:react-native-webview] /Users/baps/Documents/Projects/Nyota Latest 2/Source/node_modules/react-native-webview/android/build/intermediates/library_manifest/release/AndroidManifest.xml:15:13-37
+	android:name
+		ADDED from [:react-native-webview] /Users/baps/Documents/Projects/Nyota Latest 2/Source/node_modules/react-native-webview/android/build/intermediates/library_manifest/release/AndroidManifest.xml:13:13-83
+provider#com.flurry.android.agent.FlurryContentProvider
+ADDED from [com.flurry.android:analytics:12.3.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/d06c0b0aab6191eceff866c1f0fb0b03/AndroidManifest.xml:15:9-18:40
+	android:authorities
+		ADDED from [com.flurry.android:analytics:12.3.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/d06c0b0aab6191eceff866c1f0fb0b03/AndroidManifest.xml:17:13-73
+	android:exported
+		ADDED from [com.flurry.android:analytics:12.3.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/d06c0b0aab6191eceff866c1f0fb0b03/AndroidManifest.xml:18:13-37
+	android:name
+		ADDED from [com.flurry.android:analytics:12.3.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/d06c0b0aab6191eceff866c1f0fb0b03/AndroidManifest.xml:16:13-74
+service#com.flurry.android.marketing.messaging.FCM.FlurryMessageListenerService
+ADDED from [com.flurry.android:marketing:12.3.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/3de1cc6f8e7f0464fad41926ebeb0ff4/AndroidManifest.xml:13:9-17:19
+	android:name
+		ADDED from [com.flurry.android:marketing:12.3.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/3de1cc6f8e7f0464fad41926ebeb0ff4/AndroidManifest.xml:13:18-104
+receiver#com.flurry.android.marketing.messaging.notification.NotificationCancelledReceiver
+ADDED from [com.flurry.android:marketing:12.3.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/3de1cc6f8e7f0464fad41926ebeb0ff4/AndroidManifest.xml:19:9-23:20
+	android:enabled
+		ADDED from [com.flurry.android:marketing:12.3.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/3de1cc6f8e7f0464fad41926ebeb0ff4/AndroidManifest.xml:21:13-35
+	android:exported
+		ADDED from [com.flurry.android:marketing:12.3.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/3de1cc6f8e7f0464fad41926ebeb0ff4/AndroidManifest.xml:22:13-37
+	android:name
+		ADDED from [com.flurry.android:marketing:12.3.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/3de1cc6f8e7f0464fad41926ebeb0ff4/AndroidManifest.xml:20:13-109
+receiver#com.flurry.android.marketing.messaging.notification.NotificationClickedReceiver
+ADDED from [com.flurry.android:marketing:12.3.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/3de1cc6f8e7f0464fad41926ebeb0ff4/AndroidManifest.xml:24:9-28:20
+	android:enabled
+		ADDED from [com.flurry.android:marketing:12.3.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/3de1cc6f8e7f0464fad41926ebeb0ff4/AndroidManifest.xml:26:13-35
+	android:exported
+		ADDED from [com.flurry.android:marketing:12.3.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/3de1cc6f8e7f0464fad41926ebeb0ff4/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [com.flurry.android:marketing:12.3.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/3de1cc6f8e7f0464fad41926ebeb0ff4/AndroidManifest.xml:25:13-107
+activity#com.facebook.FacebookActivity
+ADDED from [com.facebook.android:facebook-common:5.15.3] /Users/baps/.gradle/caches/transforms-2/files-2.1/5d30c46f51c88c4e03c9896f89ab6956/AndroidManifest.xml:30:9-33:66
+	android:configChanges
+		ADDED from [com.facebook.android:facebook-common:5.15.3] /Users/baps/.gradle/caches/transforms-2/files-2.1/5d30c46f51c88c4e03c9896f89ab6956/AndroidManifest.xml:32:13-96
+	android:theme
+		ADDED from [com.facebook.android:facebook-common:5.15.3] /Users/baps/.gradle/caches/transforms-2/files-2.1/5d30c46f51c88c4e03c9896f89ab6956/AndroidManifest.xml:33:13-63
+	android:name
+		ADDED from [com.facebook.android:facebook-common:5.15.3] /Users/baps/.gradle/caches/transforms-2/files-2.1/5d30c46f51c88c4e03c9896f89ab6956/AndroidManifest.xml:31:13-57
+activity#com.facebook.CustomTabMainActivity
+ADDED from [com.facebook.android:facebook-common:5.15.3] /Users/baps/.gradle/caches/transforms-2/files-2.1/5d30c46f51c88c4e03c9896f89ab6956/AndroidManifest.xml:34:9-71
+	android:name
+		ADDED from [com.facebook.android:facebook-common:5.15.3] /Users/baps/.gradle/caches/transforms-2/files-2.1/5d30c46f51c88c4e03c9896f89ab6956/AndroidManifest.xml:34:19-68
+activity#com.facebook.CustomTabActivity
+ADDED from [com.facebook.android:facebook-common:5.15.3] /Users/baps/.gradle/caches/transforms-2/files-2.1/5d30c46f51c88c4e03c9896f89ab6956/AndroidManifest.xml:35:9-49:20
+	tools:node
+		ADDED from [com.facebook.android:facebook-common:5.15.3] /Users/baps/.gradle/caches/transforms-2/files-2.1/5d30c46f51c88c4e03c9896f89ab6956/AndroidManifest.xml:38:13-31
+	android:exported
+		ADDED from [com.facebook.android:facebook-common:5.15.3] /Users/baps/.gradle/caches/transforms-2/files-2.1/5d30c46f51c88c4e03c9896f89ab6956/AndroidManifest.xml:37:13-36
+	android:name
+		ADDED from [com.facebook.android:facebook-common:5.15.3] /Users/baps/.gradle/caches/transforms-2/files-2.1/5d30c46f51c88c4e03c9896f89ab6956/AndroidManifest.xml:36:13-58
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:cct.${applicationId}+data:scheme:fbconnect
+ADDED from [com.facebook.android:facebook-common:5.15.3] /Users/baps/.gradle/caches/transforms-2/files-2.1/5d30c46f51c88c4e03c9896f89ab6956/AndroidManifest.xml:39:13-48:29
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:cct.com.icreative.nyota+data:scheme:fbconnect
+ADDED from [com.facebook.android:facebook-common:5.15.3] /Users/baps/.gradle/caches/transforms-2/files-2.1/5d30c46f51c88c4e03c9896f89ab6956/AndroidManifest.xml:39:13-48:29
+action#android.intent.action.VIEW
+ADDED from [com.facebook.android:facebook-common:5.15.3] /Users/baps/.gradle/caches/transforms-2/files-2.1/5d30c46f51c88c4e03c9896f89ab6956/AndroidManifest.xml:40:17-69
+	android:name
+		ADDED from [com.facebook.android:facebook-common:5.15.3] /Users/baps/.gradle/caches/transforms-2/files-2.1/5d30c46f51c88c4e03c9896f89ab6956/AndroidManifest.xml:40:25-66
+category#android.intent.category.BROWSABLE
+ADDED from [com.facebook.android:facebook-common:5.15.3] /Users/baps/.gradle/caches/transforms-2/files-2.1/5d30c46f51c88c4e03c9896f89ab6956/AndroidManifest.xml:43:17-78
+	android:name
+		ADDED from [com.facebook.android:facebook-common:5.15.3] /Users/baps/.gradle/caches/transforms-2/files-2.1/5d30c46f51c88c4e03c9896f89ab6956/AndroidManifest.xml:43:27-75
+data
+ADDED from [com.facebook.android:facebook-common:5.15.3] /Users/baps/.gradle/caches/transforms-2/files-2.1/5d30c46f51c88c4e03c9896f89ab6956/AndroidManifest.xml:45:17-47:50
+	android:host
+		ADDED from [com.facebook.android:facebook-common:5.15.3] /Users/baps/.gradle/caches/transforms-2/files-2.1/5d30c46f51c88c4e03c9896f89ab6956/AndroidManifest.xml:46:21-56
+	android:scheme
+		ADDED from [com.facebook.android:facebook-common:5.15.3] /Users/baps/.gradle/caches/transforms-2/files-2.1/5d30c46f51c88c4e03c9896f89ab6956/AndroidManifest.xml:47:21-47
+provider#com.facebook.internal.FacebookInitProvider
+ADDED from [com.facebook.android:facebook-core:5.15.3] /Users/baps/.gradle/caches/transforms-2/files-2.1/c80e3584beaa4034e858be68c38b9050/AndroidManifest.xml:39:9-42:40
+	android:authorities
+		ADDED from [com.facebook.android:facebook-core:5.15.3] /Users/baps/.gradle/caches/transforms-2/files-2.1/c80e3584beaa4034e858be68c38b9050/AndroidManifest.xml:41:13-72
+	android:exported
+		ADDED from [com.facebook.android:facebook-core:5.15.3] /Users/baps/.gradle/caches/transforms-2/files-2.1/c80e3584beaa4034e858be68c38b9050/AndroidManifest.xml:42:13-37
+	android:name
+		ADDED from [com.facebook.android:facebook-core:5.15.3] /Users/baps/.gradle/caches/transforms-2/files-2.1/c80e3584beaa4034e858be68c38b9050/AndroidManifest.xml:40:13-70
+receiver#com.facebook.CurrentAccessTokenExpirationBroadcastReceiver
+ADDED from [com.facebook.android:facebook-core:5.15.3] /Users/baps/.gradle/caches/transforms-2/files-2.1/c80e3584beaa4034e858be68c38b9050/AndroidManifest.xml:44:9-50:20
+	android:exported
+		ADDED from [com.facebook.android:facebook-core:5.15.3] /Users/baps/.gradle/caches/transforms-2/files-2.1/c80e3584beaa4034e858be68c38b9050/AndroidManifest.xml:46:13-37
+	android:name
+		ADDED from [com.facebook.android:facebook-core:5.15.3] /Users/baps/.gradle/caches/transforms-2/files-2.1/c80e3584beaa4034e858be68c38b9050/AndroidManifest.xml:45:13-86
+intent-filter#action:name:com.facebook.sdk.ACTION_CURRENT_ACCESS_TOKEN_CHANGED
+ADDED from [com.facebook.android:facebook-core:5.15.3] /Users/baps/.gradle/caches/transforms-2/files-2.1/c80e3584beaa4034e858be68c38b9050/AndroidManifest.xml:47:13-49:29
+action#com.facebook.sdk.ACTION_CURRENT_ACCESS_TOKEN_CHANGED
+ADDED from [com.facebook.android:facebook-core:5.15.3] /Users/baps/.gradle/caches/transforms-2/files-2.1/c80e3584beaa4034e858be68c38b9050/AndroidManifest.xml:48:17-95
+	android:name
+		ADDED from [com.facebook.android:facebook-core:5.15.3] /Users/baps/.gradle/caches/transforms-2/files-2.1/c80e3584beaa4034e858be68c38b9050/AndroidManifest.xml:48:25-92
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.google.android.gms:play-services-measurement:17.2.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/b5f3d25d8bffb169cf9bc420054a788b/AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/488ac8965eb62ce2aa349ed58839a1e4/AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/488ac8965eb62ce2aa349ed58839a1e4/AndroidManifest.xml:26:5-110
+MERGED from [com.android.installreferrer:installreferrer:1.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/a633780462fa24e69f187a3efa8cfbad/AndroidManifest.xml:9:5-110
+MERGED from [com.android.installreferrer:installreferrer:1.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/a633780462fa24e69f187a3efa8cfbad/AndroidManifest.xml:9:5-110
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/b5f3d25d8bffb169cf9bc420054a788b/AndroidManifest.xml:26:22-107
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.android.gms:play-services-measurement:17.2.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/b5f3d25d8bffb169cf9bc420054a788b/AndroidManifest.xml:29:9-33:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/b5f3d25d8bffb169cf9bc420054a788b/AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/b5f3d25d8bffb169cf9bc420054a788b/AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/b5f3d25d8bffb169cf9bc420054a788b/AndroidManifest.xml:30:13-85
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.android.gms:play-services-measurement:17.2.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/b5f3d25d8bffb169cf9bc420054a788b/AndroidManifest.xml:34:9-42:20
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/488ac8965eb62ce2aa349ed58839a1e4/AndroidManifest.xml:29:9-37:20
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/488ac8965eb62ce2aa349ed58839a1e4/AndroidManifest.xml:29:9-37:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/b5f3d25d8bffb169cf9bc420054a788b/AndroidManifest.xml:36:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/b5f3d25d8bffb169cf9bc420054a788b/AndroidManifest.xml:37:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/b5f3d25d8bffb169cf9bc420054a788b/AndroidManifest.xml:38:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/b5f3d25d8bffb169cf9bc420054a788b/AndroidManifest.xml:35:13-100
+intent-filter#action:name:com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.android.gms:play-services-measurement:17.2.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/b5f3d25d8bffb169cf9bc420054a788b/AndroidManifest.xml:39:13-41:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.android.gms:play-services-measurement:17.2.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/b5f3d25d8bffb169cf9bc420054a788b/AndroidManifest.xml:40:17-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/b5f3d25d8bffb169cf9bc420054a788b/AndroidManifest.xml:40:25-76
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.android.gms:play-services-measurement:17.2.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/b5f3d25d8bffb169cf9bc420054a788b/AndroidManifest.xml:44:9-47:40
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/b5f3d25d8bffb169cf9bc420054a788b/AndroidManifest.xml:46:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/b5f3d25d8bffb169cf9bc420054a788b/AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/b5f3d25d8bffb169cf9bc420054a788b/AndroidManifest.xml:45:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.android.gms:play-services-measurement:17.2.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/b5f3d25d8bffb169cf9bc420054a788b/AndroidManifest.xml:48:9-52:72
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/b5f3d25d8bffb169cf9bc420054a788b/AndroidManifest.xml:50:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/b5f3d25d8bffb169cf9bc420054a788b/AndroidManifest.xml:51:13-37
+	android:permission
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/b5f3d25d8bffb169cf9bc420054a788b/AndroidManifest.xml:52:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/b5f3d25d8bffb169cf9bc420054a788b/AndroidManifest.xml:49:13-87
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:19.0.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/f86c172a1dcb6877664cbca2ad1b191a/AndroidManifest.xml:12:9-16:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:19.0.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/f86c172a1dcb6877664cbca2ad1b191a/AndroidManifest.xml:14:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:19.0.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/f86c172a1dcb6877664cbca2ad1b191a/AndroidManifest.xml:15:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:19.0.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/f86c172a1dcb6877664cbca2ad1b191a/AndroidManifest.xml:16:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:19.0.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/f86c172a1dcb6877664cbca2ad1b191a/AndroidManifest.xml:13:13-77
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/e0945a7540a67fa0be85db7a3288dc7a/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/e0945a7540a67fa0be85db7a3288dc7a/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/e0945a7540a67fa0be85db7a3288dc7a/AndroidManifest.xml:24:13-58
+meta-data#com.bumptech.glide.integration.okhttp3.OkHttpGlideModule
+ADDED from [com.github.bumptech.glide:okhttp3-integration:4.9.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/6095c5470dbd847b8014ca8eb7c6fa53/AndroidManifest.xml:11:9-13:43
+	android:value
+		ADDED from [com.github.bumptech.glide:okhttp3-integration:4.9.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/6095c5470dbd847b8014ca8eb7c6fa53/AndroidManifest.xml:13:13-40
+	android:name
+		ADDED from [com.github.bumptech.glide:okhttp3-integration:4.9.0] /Users/baps/.gradle/caches/transforms-2/files-2.1/6095c5470dbd847b8014ca8eb7c6fa53/AndroidManifest.xml:12:13-84
